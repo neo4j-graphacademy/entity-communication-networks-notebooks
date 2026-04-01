@@ -1,0 +1,41 @@
+{
+  "name": "Entity Communication Networks",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+
+  "postAttachCommand": "echo '\nEnvironment ready!\nVirtual environment: .venv\nAll dependencies installed\n\nOpen any notebook and start running cells.\n'",
+
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+        "python.terminal.activateEnvironment": true,
+        "jupyter.notebookFileRoot": "${workspaceFolder}",
+        "jupyter.kernels.filter": [],
+        "notebook.defaultKernel": "${workspaceFolder}/.venv/bin/python",
+        "files.exclude": {
+          "**/__pycache__": true,
+          "**/.pytest_cache": true
+        }
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-python.vscode-pylance"
+      ]
+    }
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "installZsh": true,
+      "installOhMyZsh": true,
+      "upgradePackages": true
+    }
+  }
+}

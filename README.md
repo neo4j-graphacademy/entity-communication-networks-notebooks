@@ -1,8 +1,13 @@
-# Email PDFs to Knowledge Graph
+# Entity Communication Networks
 
-Companion notebooks for the [Neo4j GraphAcademy](https://graphacademy.neo4j.com/) course: **Email PDFs to Knowledge Graph**.
+Companion notebooks for the [Neo4j GraphAcademy](https://graphacademy.neo4j.com/) course: **Entity Communication Networks**.
 
-Extract text from 4,911 Enron email PDFs, parse headers into structured records, and import a metadata graph into Neo4j.
+Extract text from 4,911 Enron email PDFs, parse headers into structured records, and import a communication network into Neo4j.
+
+This is the first of three courses:
+1. **Entity Communication Networks** (this course) — extraction, parsing, and import
+2. **Entity Extraction for Communication Networks** — entity and topic extraction from email body text
+3. **Entity Resolution for Communication Networks** — deduplication and identity resolution
 
 ## Notebooks
 
