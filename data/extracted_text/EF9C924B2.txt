@@ -1,0 +1,39 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF9C924B2
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Smith, Chris A. <a..smith@enron.com>
+Sent:
+Thu, 28 Feb 2002 04:31:38 -0800 (PST)
+To:
+Hottap HelpDesk <helpdesk.hottap@enron.com>, Kuehl, Toby
+<toby.kuehl@enron.com>, Holmes, Bradley <bradley.holmes@enron.com>,
+Buchanan, John <john.buchanan@enron.com>, Kowalke, Terry
+<terry.kowalke@enron.com>, Schoolcraft, Darrell
+<darrell.schoolcraft@enron.com>, Blair, Lynn <lynn.blair@enron.com>,
+Nacey, Sheila <sheila.nacey@enron.com>
+Cc:
+Abshire, Scott <scott.abshire@enron.com>, Hotte, Steve
+<steve.hotte@enron.com>, Sawyer, Lisa <lisa.sawyer@enron.com>,
+McFarland, Jean <jean.mcfarland@enron.com>, Kedwaii, Hasan
+<hasan.kedwaii@enron.com>, Wagner, Glenda <glenda.wagner@enron.com>,
+Daze, Don <don.daze@enron.com>
+Subject:
+All tests were NOT successfully executed
+All testing was completed, but we encountered problems with accessing the Flow
+Gas testing.  We have notified the Business Objects On-call, and we will
+provide an update as it's available.  We have confirmed with the ENW
+Resolution Center that the Exchange servers are up.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF9C924B2
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-163200265447

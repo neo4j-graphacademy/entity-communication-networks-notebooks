@@ -1,0 +1,125 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EB61FFADO
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+RELEASE
+IN
+PART
+From:
+Supatgiat,
+Chonawee <chonawee.supatgiat@enron.com>
+Sent:
+Mon,
+20 Aug 2001
+10:33:20
+-0700
+(PDT)
+To:
+Huang,
+Alex <alex.huang@enron.com>,
+Lin,
+Martin
+<martin.lin@enron.com>,
+Cunningham,
+Lance
+<lance.cunningham@enron.com>,
+Kaminski,
+Vince
+J
+<j.kaminski@enron.com>,
+Lu,
+Zimin <zimin.lu@enron.com>,
+Shanbhogue,
+Vasant <vasant.shanbhogue@enron.com>,
+Halliburton,
+Tom
+<tom.halliburton@enron.com>,
+Narongwanich,
+Wichai
+<wichai.narongwanich@enron.com>,
+Kiatsupaibul,
+Seksan
+<seksan.kiatsupaibul@enron.com>,
+Yaman,
+Sevil
+<sevil.yaman@enron.com>,
+Issler,
+Paulo <paulo.issler@enron.com>,
+Bharati
+...
+Ce:
+Krishnarao,
+Pinnamaneni
+<pinnamaneni.krishnarao@enron.com>,
+Will,
+Lloyd <lloyd.will@enron.com>,
+Kohli,
+Sandeep
+<sandeep.kohli@enron.com>
+Subject:
+Installation
+for Full Requirement Dispatch Application
+Thank you for attending to the talk last Friday.
+The current version of the
+program can be installed by double click on file
+setup.exe
+in
+O:\Research\Common\from_cs\fullReqDispatch\installation
+directory.
+It has
+a
+security checking system that allows
+only Enron people with readable-access
+to
+O:\Research directory to be able to run the program.
+If you have any questions
+or problems please
+let me
+know.
+Thank you,
+-Chonawee
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EB61FFADO
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-289218542227

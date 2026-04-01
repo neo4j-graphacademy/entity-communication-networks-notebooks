@@ -1,0 +1,89 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E8349EFB4 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Alan Comnes <alan.comnes@enron.com> 
+Sent: 
+Fri, 13 Jul 2001 14:23:00 -0700 (PDT) 
+To: 
+Alan Comnes <alan.comnes@enron.com>, Jeff Dasovich 
+<jeff.dasovich@enron.com>, Jennifer Thome 
+<jennifer.thome@enron.com>, Richard Shapiro 
+<richard.shapiro@enron.com>, James D Steffes 
+<james.steffes@enron.com>, Susan J Mara <susan.mara@enron.com>, Dave 
+Perrino <dave.perrino@enron.com>, Ban Sharma <ban.sharma@enron.com>, 
+Tim Belden <tim.belden@enron.com>, Ray Alvarez 
+<ray.alvarez@enron.com>, B Scott Palmer <b.palmer@enron.com>, Mark 
+Palmer <mark.palmer@enron.com> ... 
+Subject: 
+RE: DWR Stranded Cost Update 
+I am resending the same file as before (although to a larger group) and need 
+to make a correction regarding one assumption. 
+I am told the analysis does 
+not yet include the gas indexed contracts. 
+We're working on getting them 
+included and when they are, the overmarket value will likely increase. 
+-—----Original Message----- 
+From: 
+Comnes, Alan 
+Sent: 
+Wednesday, July 11, 2001 3:04 PM 
+To: 
+Dasovich, Jeff; Thome, Jennifer; Shapiro, Richard; Steffes, James; 
+Mara, Susan; Perrino, Dave; Sharma, Ban; Belden, Tim; Alvarez, Ray 
+Subject: 
+DWR Stranded Cost Update 
+Using information pulled together by Jennifer and BAN, I requested West 
+Tradings Risk/Structuring Group do a more careful analysis of the above-market 
+costs associated with the DWR contracts. 
+Attached is their analysis. 
+In this analysis we examined only the executed contracts and NOT the 
+agreements-in principle. 
+(Only executed contracts were released by the state 
+in the last few weeks.) Also, gas-indexed contracts were examined on their 
+nongas costs only. 
+Since gas costs are a pass through on some contracts, we 
+excluded them as a conservatism; i.e., we did not ascribe costs to the gas 
+portion of the contracts since they will float with market costs over time. 
+These contracts were marked to market using current, applicable curves. 
+Finally we discounted at the LIBOR rate, which is around 4%/year. 
+The stranded cost under these assumptions 
+is approximately $10 billion. 
+The 
+spreadsheet shows the overmarket costs by contract. 
+Note: a negative 
+"mark-to-market" equals a positive stranded cost. 
+As before, this analysis is based upon Enron's confidential forward curves. 
+Approval from Tim Belden is needed before this analysis can be released. 
+Alan Comnes 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E8349EFB4 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-703263703180
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E8349EFB4 
+Date: 01/15/2003 
+ENRON CORP. —- PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+<< File: Stranded Cost Analysis Structuring Confidential.xls >> 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E8349EFB4 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-703263703180

@@ -1,0 +1,128 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBD766B53 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Davis, Pete <pete.davis@enron.com> 
+Sent: 
+Tue, 9 Oct 2001 05:37:48 -0700 (PDT) 
+To: 
+Davis, Pete <pete.davis@enron.com> 
+Ce: 
+Meyers, Bert <bert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Linder, Eric <eric.linder@enron.com>, Solberg, Geir 
+<geir.solberg@enron.com>, Symes, Kate <kate.symes@enron.com, 
+Harasin, Leaf <leaf.harasin@enron.com>, Causholli, Monika 
+<monika.causholli@enron.com>, Guzman, Mark <mark.guzman@enron.com>, 
+Davis, Pete <pete.davis@enron.com>, Slinger, Ryan 
+<ryan.slinger@enron.com>, smerris@enron.com 
+Subject: 
+Start Date: 10/9/01; HourAhead hour: 8; 
+<CODESITE> 
+Start Date: 10/9/01; HourAhead hour: 8; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in Energy Import/Export schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001100908.txt 
+Error retrieving HourAhead price data - process continuing... 
+---- Energy Import/Export Schedule ---- 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: MALIN_5_ RNDMTN 
+INTERCHG_ID: EPMI_CISO_RED 
+ENGY_TYPE: WHEEL 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: PVERDE_5_DEVERS 
+INTERCHG_ID: EPMI_CISO_BLUE 
+ENGY_TYPE: WHEEL 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBD766B53 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-751978319808
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBD766B53 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: PVERDE_5_DEVERS 
+INTERCHG_ID: EPMI_CISO_GREEN 
+ENGY_TYPE: WHEEL 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: FCORNR_5_PSUEDO 
+INTERCHG_ID: EPMI_CISO_ROSE 
+ENGY_TYPE: WHEEL 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: SYLMAR 
+2 NOB 
+INTERCHG_ID: EPMI_CISO_YELLOW 
+ENGY_TYPE: WHEEL 
+$$$ Variance found in table tblINTCHG_IMPEXP. 
+Details: (Hour: 8 / Preferred: 
+0.00 / Final: 
+0.01) 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/9/01 
+TIE_POINT: MEAD 
+2 WALC 
+INTERCHG_ID: EPMI_CISO_ORANGE 
+ENGY_TYPE: WHEEL 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBD766B53 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-751978319808

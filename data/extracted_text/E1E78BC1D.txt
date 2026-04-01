@@ -1,0 +1,32 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E1E78BC1D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Zimin Lu <zimin.lu@enron.com>
+Sent:
+Mon, 7 May 2001 06:39:00 -0700 (PDT)
+To:
+Stinson Gibner <stinson.gibner@enron.com>
+Subject:
+1 factor HJM for the propane project
+Stinson,
+Here is the 1 factor HJM model for curve simulation originally designed for
+a Coal Plant valuation.
+This techniques is useful for all kinds of curves, especially when we
+do not have the quality data to estimate other factors. (situations where
+only volatility curve is availiable).
+Let me know if you have any questions.
+Zimin
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E1E78BC1D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-290440094958

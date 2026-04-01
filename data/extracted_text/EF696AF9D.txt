@@ -1,0 +1,55 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EFP696AF9D 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Davis, Pete <pete.davis@enron.com> 
+Sent: 
+Mon, 17 Dec 2001 04:37:36 -0800 (PST) 
+To: 
+Davis, Pete <pete.davis@enron.com> 
+Ce: 
+Meyers, Albert <albert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Solberg, Geir <geir.solberg@enron.com>, Anderson, John 
+<john.anderson@enron.com>, Guzman, Mark <mark.guzman@enron.com>, 
+Mier, Michael <michael.mier@enron.com>, Davis, Pete 
+<pete.davis@enron.com>, Slinger, Ryan <ryan.slinger@enron.com> 
+Subject: 
+Start Date: 12/17/01; HourAhead hour: 3; 
+Start Date: 12/17/01; HourAhead hour: 3; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in Energy Import/Export schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001121703.txt 
+---- Energy Import/Export Schedule ---- 
++++ Hour 3 - bad data from ISO. 
+TRANS_TYPE: FINAL 
+SC_ID: ECTstCA 
+MKT_TYPE: 2 
+TRANS_DATE: 12/17/01 
+TIE_POINT: PVERDE_5_DEVERS 
+INTERCHG_ID: ENRJ_CISO_5001 
+ENGY_TYPE: FIRM 
++++ Hour 3 - bad data from ISO. 
+TRANS_TYPE: FINAL 
+SC_ID: ECTstCA 
+MKT_TYPE: 2 
+TRANS_DATE: 12/17/01 
+TIE_POINT: MALIN_5_ RNDMTN 
+INTERCHG_ID: ENRJ_CISO_3001 
+ENGY_TYPE: FIRM 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EF696AF9D 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-819594349233

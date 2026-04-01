@@ -1,0 +1,51 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E311B307F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+owner-eveningmba@Haas.Berkeley.EDU 
+<owner-eveningmba@haas.berkeley.edu> 
+Sent: 
+Thu, 7 Jun 2001 06:01:00 -0700 (PDT) 
+To: 
+faculty@haas.berkeley.edu, staff@haas.berkeley.edu, 
+allphds@haas.berkeley.edu, mfe02@haas.berkeley.edu, 
+eveningmba@haas.berkeley.edu, mba0l@haas.berkeley.edu, 
+mba02@haas.berkeley.edu, undergrd@haas.berkeley.edu 
+Ce: 
+cons@haas.berkeley.edu 
+Subject: 
+Computing Services OUTAGE for Sunday, June 10th 
+Dear Haas Community, 
+Sunday, June 10th, 2001, between 8:00 AM and noon, two servers will be 
+shut down for maintenance and upgrades. The NT web servers HCS-STUDENTS and 
+HCS-FACULTY will be shut down for installation of an operating system 
+[REDACTED] B6 
+temporarily for upgrade of its operating system. 
+While these servers are down student and faculty personal web sites, and 
+the development data base will not be available. 
+Email service should not be affected. 
+As always, 
+should you experience any problems with computing services 
+following the maintenance, please contact the information desk in the 
+Computer Center, or helpdesk at http://helpdesk.haas.berkeley.edu, phone 
+510/642-0434. 
+Please note that Helpdesk is not manned on 
+weekends. 
+Requests for help logged during the weekend will be responded to 
+Monday morning. 
+Your patience is greatly appreciated. 
+Thank you. 
+[REDACTED] B6 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E311B307F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-661287307031

@@ -1,0 +1,30 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2EF4A6FA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+John J Lavorato <john.lavorato@enron.com>
+Sent:
+Tue, 19 Dec 2000 22:42:00 -0800 (PST)
+To:
+Stinson Gibner <stinson.gibner@enron.com>
+Subject:
+Re: Updated WTI Trading Simulation
+Stinson
+Thanks
+P.S.
+At the end of the term of each simulation do we assume that we close the
+position on that date and take a hit or do we leave the simulation with an
+open positon.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2EF4A6FA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-842535605402

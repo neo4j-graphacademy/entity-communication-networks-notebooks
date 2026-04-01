@@ -1,0 +1,95 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EB234D42B
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+CONFIDENTIAL
+-
+SUBJECT
+TO
+PROTECTIVE
+ORDER
+From:
+ARSystem <arsystem@mailman.enron.com>
+Sent:
+Thu,
+16 Nov 2000
+05:03:00
+-0800
+(PST)
+To:
+sally.beck@enron.com
+Subject:
+Request
+Submitted:
+Access Request
+for steve.moen@enron.com
+You have received this email because you are listed as
+a security approver.
+Please
+click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=0000000000075938Page=
+Approval to review and act upon this
+request.
+Request
+ID
+>
+000000000007593
+Request Create Date
+:
+11/16/00
+11:21:54 AM
+Requested For
+:
+steve.moen@enron.com
+Resource Name
+:
+EOL US Backoffice
+Data Manager
+Resource Type
+:
+Applications
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EB234D42B
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-976151480915

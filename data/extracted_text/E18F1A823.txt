@@ -1,0 +1,32 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E18F1A823
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+ARSystem <arsystem@mailman.enron.com>
+Sent:
+Wed, 26 Dec 2001 01:10:13 -0800 (PST)
+To:
+Arora, Harry <harry.arora@enron.com>
+Subject:
+Your Approval is Overdue: Access Request for jaime.gualy@enron.com
+This request has been pending your approval for  137 days.  Please click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000041547&Page=Approval
+to review and act upon this request.
+Request ID          : 000000000041547
+Request Create Date : 6/19/01 7:50:30 AM
+Requested For       : jaime.gualy@enron.com
+Resource Name       : \\nahoutrd\houston\pwr\common\Electric - [Read]
+Resource Type       : Directory
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E18F1A823
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-590402280773

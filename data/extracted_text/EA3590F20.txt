@@ -1,0 +1,54 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EA3590F20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Puthigai, Savita <savita.puthigai@enron.com>
+Sent:
+Fri, 19 Oct 2001 11:10:17 -0700 (PDT)
+To:
+EOL Non North America Traders <traders.eol@enron.com>, EOL North
+America Traders <traders.eol@enron.com>
+Cc:
+Product Control - Houston <houston.product@enron.com>, EOL Call
+Center <center.eol@enron.com>, Enron London - EOL Product Control
+Group <group.enron@enron.com>, Mandola, Teresa
+<teresa.mandola@enron.com>, Connelly, Angela
+<angela.connelly@enron.com>, Richter, Brad <brad.richter@enron.com>,
+Pickering, Mark <mark.pickering@enron.com>, Piper, Greg
+<greg.piper@enron.com>, Renaud, Lindsay <lindsay.renaud@enron.com>,
+Pacheco, Leonardo <leonardo.pacheco@enron.com>, Carter, Carl
+<carl.carter@enron.com> ...
+Subject:
+EnronOnline- Change to Autohedge
+Effective Monday, October 22, 2001 the following changes will be made to the
+Autohedge functionality on EnronOnline.
+The volume on the hedge will now respect the minimum volume and volume
+increment settings on the parent product. See rules below:
+?       If the transaction volume on the child is less than half of the
+parent's minimum volume no hedge will occur.
+?       If the transaction volume on the child is more than half the parent's
+minimum volume but less than half the volume increment on the parent, the
+hedge will volume will be the parent's minimum volume.
+?       For all other volumes, the same rounding rules will apply based on the
+volume increment on the parent product.
+Please see example below:
+Parent's Settings:
+Minimum:        5000
+Increment:  1000
+Volume on Autohedge transaction                 Volume Hedged
+1      - 2499                                                   0
+2500 - 5499                                                     5000
+5500 - 6499                                                     6000
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EA3590F20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-591564051980

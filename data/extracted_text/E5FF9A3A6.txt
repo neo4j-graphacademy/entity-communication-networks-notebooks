@@ -1,0 +1,331 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Enron Change Management Announcement <no.address@enron.com>
+Sent:
+Fri, 16 Nov 2001 15:48:19 -0800 (PST)
+To:
+Houston Outage Report
+Subject:
+SUPPLEMENTAL Weekend Outage Report for 11-16-01 through 11-18-01
+WEEKEND SYS TEMS AVATILABILITY
+FOR
+November 16, 2001 5:00pm through November 19, 2001 12:00am
+SCHEDULED SYSTEM OUTAGES:
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+AZURIX: No Scheduled Outages.
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+EDI SERVER: No Scheduled Outages.
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+ENRON NORTH AMERICAN LANS:
+SEE ORIGINAL REPORT
+FIELD SERVICES:
+No Scheduled Outages.
+INTERNET: No Scheduled Outages.
+MESSAGING:
+ALSO SEEE ORIGINAL REPORT
+Impact:
+All Nahou Exchange server users
+Time:
+Sat 11/17/2001 at
+5:00:00 PM CT thru Sat 11/17/2001 at
+9:00:00 PM CT
+Sat 11/17/2001 at
+3:00:00 PM PT thru Sat 11/17/2001 at
+7:00:00 PM
+PT
+Sat 11/17/2001 at
+11:00:00 PM London thru Sun 11/18/2001 at
+3:00:00
+AM London
+Outage:
+Exchange server standardization
+Environments Impacted:
+All Exchange users
+Purpose: Standardize all cluster nodes and bring up to current Microsoft
+standards.
+Backout: Remove upgraded files.
+Contact (s):
+Tim Hudson
+713-853-9289
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ES5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-240099349138
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+Impact:
+nahou-msdevOlp nahou-msmbx01lv
+Time:
+Sat 11/17/2001 at
+5:00:00 PM CT thru Sat 11/17/2001 at
+9:00:00 PM CT
+Sat 11/17/2001 at
+3:00:00 PM PT thru Sat 11/17/2001 at
+7:00:00 PM
+PT
+Sat 11/17/2001 at
+11:00:00 PM London thru Sun 11/18/2001 at
+3:00:00
+AM London
+Outage:
+Database defragmentation
+Environments Impacted:
+Exchange users on nahou-msdevOlp nahou-msmbx01lv
+Storage group 3 Database 4
+Purpose: To reclaim un-used drive space within the Exchange database.
+Backout: N A.
+Contact (s):
+Tim Hudson
+713-853-9289
+MARKET DATA:
+SEE ORIGINAL REPORT
+NT: No Scheduled Outages.
+OS/2:
+No Scheduled Outages.
+OTHER:
+ALSO SEE ORIGINAL REPORT
+Impact:
+EFM Accounting
+Time:
+Sat 11/17/2001 at
+10:00:00 PM CT thru Sat 11/17/2001 at
+11:00:00 PM
+CT
+Sat 11/17/2001 at
+8:00:00 PM PT thru Sat 11/17/2001 at
+9:00:00 PM
+PT
+Sun 11/18/2001 at
+4:00:00 AM London thru Sun 11/18/2001 at
+5:00:00
+AM London
+Outage:
+Swap names of NAHOU-SQEFMO1P and NAHOU-SQLACO1P
+Environments Impacted:
+EFM Accounting users
+Purpose: Migration of production EFM Accounting MSSQL Server from 6.5 to 2000
+Backout:
+Contact(s):
+William Mallary
+Bob McCrory
+(713) 853-5749
+Michael Kogotkov
+(713) 345-1677
+Impact:
+CORP
+Time:
+Sat 11/17/2001 at
+6:00:00 PM CT thru Sun 11/18/2001 at
+9:00:00 AM
+CT
+Sat 11/17/2001 at
+4:00:00 PM PT thru Sun 11/18/2001 at
+7:00:00 AM
+PT
+Sun 11/18/2001 at
+12:00:00 AM London thru Sun 11/18/2001 at
+3:00:00
+PM London
+Outage:
+CPR
+Environments Impacted:
+All
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ES5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-240099349138
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+Purpose: Hardware maintenance for Skywalker
+Backout:
+Contact (s):
+CPR Support
+713-284-4175
+Impact:
+CORP
+Time:
+Sat 11/17/2001 at
+6:00:00 PM CT thru Sun 11/18/2001 at
+6:00:00 AM CT
+Sat 11/17/2001 at
+4:00:00 PM PT thru Sun 11/18/2001 at
+4:00:00 AM PT
+Sun 11/18/2001 at
+12:00:00 AM London thru Sun 11/18/2001 at
+12:00:00
+PM London
+Outage:
+Test/Dev general server maintenance for the following:
+ferrari, modena, trout, cypress, bravo
+Environments Impacted:
+ENW test and development
+Purpose: Established maintenance window for Test and Development
+Backout: None
+Contact(s):
+Malcolm Wells
+713-345-3716
+Impact:
+CORP
+Time:
+Sat 11/17/2001 at
+6:00:00 PM CT thru Sun 11/18/2001 at
+9:00:00 AM CT
+Sat 11/17/2001 at
+4:00:00 PM PT thru Sun 11/18/2001 at
+7:00:00 AM PT
+Sun 11/18/2001 at
+12:00:00 AM London thru Sun 11/18/2001 at
+3:00:00
+PM London
+Outage:
+New disk layout for server ERMS CPR server skywalker.
+Environments Impacted:
+ERMS
+Purpose: Move toward new standard disk layout.
+Backout: If database doesn't work after restore to new layout we will roll
+back to the old mirrored copy and resynce to that copy.
+Contact(s):
+Malcolm Wells
+713-345-3716
+Impact:
+CORP
+Time:
+Sat 11/17/2001 at
+6:00:00 PM CT thru Sun 11/18/2001 at
+9:00:00 AM CT
+Sat 11/17/2001 at
+4:00:00 PM PT thru Sun 11/18/2001 at
+7:00:00 AM PT
+Sun 11/18/2001 at
+12:00:00 AM London thru Sun 11/18/2001 at
+3:00:00
+PM London
+Outage:
+General maintenance for ERMS CPR app server chewbacca.
+Environments Impacted:
+ERMS CPR
+Purpose: General maintenance and patching.
+Backout: Backout patches and config changes and reboot to old configuration.
+Contact(s):
+Malcolm Wells
+713-345-3716
+Impact:
+CORP
+Time:
+Fri 11/16/2001 at
+5:00:00 PM CT thru Sat 11/17/2001 at
+2:00:00 PM
+CT
+Fri 11/16/2001 at
+3:00:00 PM PT thru Sat 11/17/2001 at
+12:00:00 PM
+PT
+Fri 11/16/2001 at
+11:00:00 PM London thru Sat 11/17/2001 at
+8:00:00
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-240099349138
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+PM London
+Outage:
+Update to new disk layout for server foxtrot.
+Environments Impacted:
+ACTA production
+Purpose: Move toward new standard in disk layout.
+Backout: Restore old disk layout
+restore data from disk.
+Contact(s):
+Malcolm Wells
+713-345-3716
+Impact:
+ENPOWER
+Time:
+Sat 11/17/2001 at
+7:00:00 AM CT thru Sat 11/17/2001 at
+12:00:00 PM CT
+Sat 11/17/2001 at
+5:00:00 AM PT thru Sat 11/17/2001 at
+10:00:00 AM
+PT
+Sat 11/17/2001 at
+1:00:00 PM London thru Sat 11/17/2001 at
+6:00:00
+PM London
+Outage:
+Build standby database on PWRPROD1
+Environments Impacted:
+Enpower application User
+Purpose: Improve system availability for Enpower Database
+Backout: Drop the standby database.
+Contact (s):
+Tantra Invedy
+713 853 4304
+Impact:
+KEI
+Time:
+Fri 11/16/2001 at
+3:00:00 PM CT thru Fri 11/16/2001 at
+6:00:00 PM CT
+Fri 11/16/2001 at
+1:00:00 PM PT thru Fri 11/16/2001 at
+4:00:00 PM PT
+Fri 11/16/2001 at
+9:00:00 PM London thru Sat 11/17/2001 at
+12:00:00
+AM London
+Outage:
+Decommission 3AC-17 server Room
+Environments Impacted:
+El and Azurix
+Purpose: Decommission 3AC-17 server Room
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ES5FF9A3A6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-240099349138

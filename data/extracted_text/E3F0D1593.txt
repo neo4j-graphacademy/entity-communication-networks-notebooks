@@ -1,0 +1,74 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01538 
+Doc No. ESFCD1593 
+Bate: C1/15/2004 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO FROTECTIVE CRDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Kirkpatrick, Joe <joe.kirkpatrick@constellation.com> 
+Sent: 
+Thu, 28 Feb 2002 15:47:17 -0800 (PST) 
+To: 
+Rogers, Benjamin <benjamin.rogers@enron.com> 
+Subject : 
+OOM Dispatch Abuse 
+The continuing promises to reduce OOM requests by the NYISO would seem to be 
+nothing more than empty verbage. I am referring to the continued multitude 
+of OOM dispatches that are requested every day by either ConEd and the 
+NYISe. 
+Any request for generation OOM is bypassing the SCD dispatch algorithm. The 
+requests are so frequent that it makes one wonder if SCD is capable of 
+dispatching the system at all. Generation is consistently requested OOM into 
+[REDACTED] Bé 
+condition in which the system is marginally stressed or that operator 
+intervention inte the dispatch process is for price control and not for 
+system security. 
+[REDACTED] B5 
+exception to the dispatch algorithm as afforded in the tariff to allow 
+resolution of a system condition that SCD cannot resolve. Since these 
+requests are requested so frequently you have to assume that SCD is 
+inherently flawed. 
+Yes the 138 KV modeling may go in service in the near future but will it 
+really reduce the OOM calls. ConEd has a carte blanche to load generation 
+whatever and whenever they want, even when it is not in their transmission 
+district (Roseton COM dispatch). There is no justification required and 
+clearly it is in their economic interest to request generation OOM. Controls 
+and the capability to audit these requests are required to mitigate the load 
+server with 40% of the New York State load to cease and desist bypassing the 
+SCD dispatch algorithm. 
+The consistent use of the NYPA GTs, the Gilboa generators, etc. are a 
+consistent abuse of a loophole in the tariff that allow interference into 
+the system dispatch unchecked and without any published rationale. I would 
+only assume that if a generator abused the dispatch to the same extent they 
+would have been thrown in mitigation jail a long time ago. 
+Joe 
+COME TDERT DAL. 
+Enron Gerp. 
+Case Ne. BC-20C2-51078 
+weo No. Ef O18 33 
+Date: 
+G.s 5/2008 
+ERRON CORP. — PRODUCED PURSUANT TO PERO SUBDPORNA. 
+SLBCEET TO PROTRODIVE CORGSR. CORE DIANTIAL TREATMERT RAQULEE Tacs. 
+ERRON- 280517215964
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01538 
+Doc No. ESFCD1593 
+Bate: C1/15/2004 
+ENRON CORE. - PRODUCED PURSUANT To FERC SUBPOENA. 
+SUBJECT TO FROTECTIVE CRDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+You are currently subscribed to nyiso_tie as: benjamin, regers@enron.com 
+To unsubscribe send a blank email to leave-nyiso_tie-6286500@lyris.nyiso.com 
+COME TDERT DAL. 
+Enron Gerp. 
+Case Ne. BC-20C2-51078 
+bee No. ESE 901893 
+gabe: G.e 8/2003 
+ERRON CORP. - PRODUCED PUMSUANT TO PERO SUBPOBNA,. 
+SLBCEET TO PROTRODIVE CORGSR. CORE DIANTIAL TREATMERT RAQULEE Tacs. 
+ERRON- 280517215964

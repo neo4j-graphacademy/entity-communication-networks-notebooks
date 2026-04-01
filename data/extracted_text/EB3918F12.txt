@@ -1,0 +1,36 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EB3918F12
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Davis, Pete <pete.davis@enron.com>
+Sent:
+Thu, 24 Jan 2002 17:36:43 -0800 (PST)
+To:
+Davis, Pete <pete.davis@enron.com>
+Cc:
+Meyers, Albert <albert.meyers@enron.com>, Williams III, Bill
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>,
+Solberg, Geir <geir.solberg@enron.com>, Anderson, John
+<john.anderson@enron.com>, Guzman, Mark <mark.guzman@enron.com>,
+Mier, Michael <michael.mier@enron.com>, Davis, Pete
+<pete.davis@enron.com>, Slinger, Ryan <ryan.slinger@enron.com>
+Subject:
+Start Date: 1/24/02; HourAhead hour: 16;
+Start Date: 1/24/02; HourAhead hour: 16;  No ancillary schedules awarded.  No
+variances detected.
+    LOG MESSAGES:
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final
+Schedules\2002012416.txt
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EB3918F12
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-442538270493

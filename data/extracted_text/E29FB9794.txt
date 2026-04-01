@@ -1,0 +1,91 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E29FB9794 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Tue, 24 Apr 2001 08:41:00 -0700 (PDT) 
+To: 
+pete.davis@enron.com 
+Ce: 
+bert.meyers@enron.com, bill.williams.III@enron.com, 
+Craig.Dean@enron.com, dporter3@enron.com, Eric.Linder@enron.com, 
+Geir.Solberg@enron.com, jbryson@enron.com, leaf.harasin@enron.com, 
+monika.causholli@enron.com, mark.guzman@enron.com, 
+pete.davis@enron.com, ryan.slinger@enron.com, 
+steven.merris@enron.com 
+Subject: 
+Start Date: 4/24/01; HourAhead hour: 16; 
+<CODESITE> 
+Start Date: 4/24/01; HourAhead hour: 16; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in Generation schedule. 
+Variances detected in SC Trades schedule. 
+Variances detected in Load schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001042416.txt 
+---- Generation Schedule ---- 
+$$$ Variance found in table tb1GEN_SCHEDULE. 
+Details: (Hour: 16 / Preferred: 
+0.00 / Final: 
+0.00) 
+TRANS_TYPE: FINAL 
+SC_ID: EES 
+MKT_TYPE: 2 
+TRANS_DATE: 4/24/01 
+UNIT_ID: BADLND_7_PL1X2 
+---- SC Trades Schedule ---- 
+$$$ Variance found in table tblInt_Interchange. 
+Details: (Hour: 16 / Preferred: -600.00 / Final: -599.97) 
+TRANS_TYPE: FINAL 
+SC_ID: EPMI 
+MKT_TYPE: 2 
+TRANS_DATE: 4/24/01 
+TRADING_SC: NES1 
+PNT_OF_INTRC: SP15 
+SCHED_TYPE: ENGY 
+PURCH_SALE: 1 
+DEAL 
+_ NO: 1 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E29FB9794 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-461704443854
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E29FB9794 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+---- Load Schedule ---- 
+$$$ Variance found in table tblLoads. 
+Details: (Hour: 16 / Preferred: 
+0.53 / Final: 
+0.37) 
+TRANS_TYPE: FINAL 
+LOAD_ID: PGE1 
+MKT_TYPE: 2 
+TRANS_DATE: 4/24/01 
+SC_ID: EPMI 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E29FB9794 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-461704443854

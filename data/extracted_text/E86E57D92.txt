@@ -1,0 +1,37 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E86E57D92 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+enron_update@concureworkplace.com 
+<enron_update@concureworkplace.com> 
+Sent: 
+Wed, 21 Dec 0001 22:30:55 -0800 (PST) 
+To: 
+Steven Kean <skean@enron.com> 
+Subject: 
+<<Concur Expense Document>> - sk121301 
+The Payment status has changed on the following report: 
+Status last changed by: 
+System 
+Expense Report Name: sk121301 
+Report Total: $1,932.77 
+Amount Due Employee: $1,932.77 
+Amount Approved: $1,932.77 
+Amount Paid: $1,932.77 
+Approval Status: Approved 
+Payment Status: Paid 
+To review this expense report, click on the following link for Concur Expense. 
+http://expensexms.enron.com 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E86E57D92 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-392181103220

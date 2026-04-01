@@ -1,0 +1,103 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E88FAC3B5
+Date: 01/15/2003
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Black, Tamara Jae <jae.black@enron.com>
+Sent:
+Thu, 31 Jan 2002 06:19:05 -0800 (PST)
+To:
+/O=ENRON/ou=NA/cn=Recipients/cn=notesaddr/cn=a478079f-55e1f£3b0-862566fa-612229@en
+Allen, Diana <diana.allen@enron.com>, Arora, Harry
+<harry.arora@enron.com>, Bailey, Debra <debra.bailey@enron.com>,
+Ballato, Russell <russell.ballato@enron.com>, Ballinger, Ted
+<ted.ballinger@enron.com>, Baughman Jr., Don
+<don.baughman@enron.com>, Baughman, Edward
+<edward.baughman@enron.com>, Benchluch, Moises
+<moises.benchluch@enron.com>, Benson, Robert
+<robert.benson@enron.com>, Bentley, [REDACTED] Bé ...
+Subject:
+FW: NetCo Production Databases Reorg.
+-—----Original Message-----
+From:
+Allen, Diana
+Sent:
+Thursday, January 31, 2002 8:05 AM
+To:
+Black, Tamara Jae
+Subject:
+FW: NetCo Production Databases Reorg.
+TJ.
+Can you please let everyone know that our Power Decision Support database will
+be down today, and could possible stay down until tomorrow morning.
+I will notify you as soon as the database comes on line again.
+Thanks,
+Diana Allen
+X35356
+-—----Original Message-----
+From:
+Tang, Mable
+Sent:
+Wednesday, January 30, 2002 1:28 PM
+To:
+Allen, Diana; Poston, David; Luu, Duong; Lim, Francis S.;
+Krishnaswamy, Jayant; Chitradurga, Sundar; Powell, John D.; Ramesh, Ganapathy;
+Schomer, Chris; McKinney, Hal
+Ce:
+Wei, Zhiyong; Nat, Steve; Johnson, Jeff; Stock, Steve; Hillier, Bob;
+Berger, Michael; Charbonnet, Clement; Invedy, Tantra; Johnston, Jamey;
+Ritacco, Michael
+Subject:
+NetCo Production Databases Reorg.
+Hello Everyone,
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E88FAC3B5
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-696968101619
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E88FAC3B5
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+The Oracle DBA team would like request NetCo production database downtime
+starting tomorrow Thursday 01/31/2002 at
+[REDACTED] B6
+Attached is the summary of the reorg work and the estimated downtime.
+All
+NetCo production databases will be ready
+no later than Friday 02/01/2002 at Jam if not earlier.
+Please response with your approval by COB today.
+If you have any further
+questions, please feel free to contact me or your dbas.
+Thanks,
+Mable
+-—----Original Message-----
+From:
+Charbonnet, Clement
+Sent:
+Wednesday, January 30, 2002 12:03 PM
+To:
+DL-Oracle DBA
+[REDACTED] B6
+Attached is the spreadsheet of the database reorg sizes.
+Clement
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E88FAC3B5
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-696968101619

@@ -1,0 +1,32 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EA491436F
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Steve Kim <steve.kim@enron.com>
+Sent:
+Mon, 17 Jul 2000 07:54:00 -0700 (PDT)
+To:
+Mark Taylor <mark.taylor@enron.com>
+Subject:
+PULPEX clarification
+Mark,
+I seem to recall from our earlier conversation that London can trade on the
+PULPEX but cannot trade as a marketmaker.  That can only be done out of
+Houston.  Is this understanding correct? and if so, why is that?  The reason
+why I ask is that eventually we would like to move the marketmaking function
+over to London.
+regards
+steve
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EA491436F
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-1006798440144

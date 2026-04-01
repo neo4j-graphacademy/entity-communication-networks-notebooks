@@ -1,0 +1,84 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E388E1ADA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Cassandra Schultz <cassandra.schultz@enron.com>
+Sent:
+Sat, 16 Dec 2000 14:46:00 -0800 (PST)
+To:
+Naveen Andrews <naveen.andrews@enron.com>, Matthew Adams
+<matthew.adams@enron.com>, Sunil Dalal <sunil.dalal@enron.com>,
+LaCrecia Davenport <lacrecia.davenport@enron.com>, Frank Economou
+<frank.economou@enron.com>, Xochitl Figueroa
+<xochitl.figueroa@enron.com>, Frank Hayden <frank.hayden@enron.com>,
+Christian LeBroc <christian.lebroc@enron.com>, Nick Paraschos
+<nick.paraschos@enron.com>, David Port <david.port@enron.com>,
+Manfred Roenz <manfred.roenz@enron.com> ...
+Cc:
+Ted Murphy <ted.murphy@enron.com>
+Subject:
+Upcoming Discretionary VaR Limit Changes
+Per discussion with Ted Murphy and Rick Buy, the following policy limit
+changes are anticipated.  Note:  these are subject to change given market
+volatility.
+EES - $2MM Discretionary VaR expiring on 12/22/00  ------------------------>
+EXTENDED THROUGH 1/5/01
+Aggregate VaR Limit of $140MM - $40MM expiring on 12/22/00 ---------->
+EXPIRES AFTER 12/22/00 - reduced to permanent Aggregate VaR Limit of $100MM
+NA Gas - $35MM Discretionary VaR expiring on 12/22/00 ------------------>
+EXPIRES AFTER 12/22/00 (with reduction in Aggregate VaR Limit to $100MM)
+UK Power - $5MM Discretionary VaR expiring on 12/22/00 ---------------->
+EXPIRES AFTER 12/22/00 (with reduction in Aggregate VaR Limit to $100MM)
+NA Gas - $15MM Discretionary VaR expiring on 12/22/00 ----------------->
+EXTEND $10MM THROUGH 1/5/01
+       -----------------> REALLOCATE $5MM to UK Power THROUGH 1/5/01.
+Therefore, the following VaR limits are/will be in place:
+   now - 12/22/00  12/23/00 - 1/5/01 1/6/01
+EES    $7MM   $7MM  $5MM
+NA Gas    $110MM  $70MM  $60MM
+UK Power   $20.3MM  $20.3MM $15.3MM
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E388E1ADA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-1098161929272
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E388E1ADA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+Aggregate VaR Limit  $140MM  $100MM $83MM
+Vlady/Frank - Ted told Lavorato the NA Gas information on Friday.
+Vlady/Minal - nothing to my knowledge has been communicated to EES yet.  You
+can check with Ted to see if he did already.
+Oliver, please communicate the anticipated limit changes for UK Power to the
+commercial and risk management/energy ops people who need to know.  If an
+extension is needed in the Discretionary VaR, at this point an analysis and
+presentation will be required to justify the extension to get Rick Buy and
+Ted Murphy to approve.
+Feel free to call me with any questions.  I'm out on vacation this week, but
+can be reached at home or on my cell phone.
+Happy Holidays,
+Cassandra.
+home  936 321 2185
+cell 713 858 2618
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E388E1ADA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-1098161929272

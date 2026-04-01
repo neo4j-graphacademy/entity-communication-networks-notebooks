@@ -1,0 +1,31 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E835F39B3 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+John M Ruiz <john.ruiz@enron.com> 
+Sent: 
+Thu, 21 Mar 2002 05:14:00 -0800 (PST) 
+To: 
+Patricia Hunter <patricia.hunter@enron.com>, Mark Fisher 
+<mark.fisher@enron.com> 
+Ce: 
+Rabi Sahoo <rabi.sahoo@enron.com>, Mark V Walker 
+<mark.walker@enron.com> 
+Subject: 
+Trent VisuPro data 
+There is VisuPro data for Trent on the network @ 
+ScadaData on Zoom_srv\\Trent\2002\Mar\Mar20\ 
+-3 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E835F39B3 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-023652604751

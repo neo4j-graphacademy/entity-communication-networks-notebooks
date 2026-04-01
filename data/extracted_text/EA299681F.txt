@@ -1,0 +1,80 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EA299681F 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Davis, Pete <pete.davis@enron.com> 
+Sent: 
+Mon, 29 Oct 2001 08:38:06 -0800 (PST) 
+To: 
+Davis, Pete <pete.davis@enron.com> 
+Ce: 
+Meyers, Bert <bert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Linder, Eric <eric.linder@enron.com>, Solberg, Geir 
+<geir.solberg@enron.com>, Symes, Kate <kate.symes@enron.com, 
+Harasin, Leaf <leaf.harasin@enron.com>, Guzman, Mark 
+<mark.guzman@enron.com>, Davis, Pete <pete.davis@enron.com>, 
+Slinger, Ryan <ryan.slinger@enron.com>, smerris@enron.com 
+Subject: 
+Start Date: 10/29/01; HourAhead hour: 11; 
+<CODESITE> 
+Start Date: 10/29/01; HourAhead hour: 11; 
+No ancillary schedules awarded. 
+No 
+variances detected. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001102911.txt 
+Error retrieving HourAhead price data - process continuing... 
+---- Energy Import/Export Schedule ---- 
+*** Final schedule not found for preferred schedule. 
+Details: 
+TRANS_TYPE: FINAL 
+SC_ID: ECTRT 
+MKT_TYPE: 2 
+TRANS_DATE: 10/29/01 
+TIE_POINT: MALIN_5_ RNDMTN 
+INTERCHG_ID: EPMI_CISO_DUCKS 
+ENGY_TYPE: FIRM 
+---- SC Trades Schedule ---- 
+*** Final schedule not found for preferred schedule. 
+Details: 
+TRANS_TYPE: FINAL 
+SC_ID: EPMI 
+MKT_TYPE: 2 
+TRANS_DATE: 10/29/01 
+TRADING _SC: EPPS 
+PNT_OF_INTRC: NP15 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EA299681F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-465790493576
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EA299681F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+SCHED_TYPE: ENGY 
+PURCH_SALE: 2 
+DEAL_NO: 1 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EA299681F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-465790493576

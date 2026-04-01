@@ -1,0 +1,82 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E200B04A3 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Rick Buy <rick.buy@enron.com> 
+Sent: 
+Mon, 13 Nov 2000 00:19:00 -0800 (PST) 
+To: 
+wbhradfo@enron.com, Mary Harris <mary.harris@enron.com, 
+james.hachen@enron.com, Michael Tribolet 
+<michael.tribolet@enron.com> 
+Subject: 
+New RPS 
+fyi, rick 
+------------------- Forwarded by Rick Buy/HOU/ECT on 11/13/2000 09:17 AM 
+Jerald Surface@EES 
+11/10/2000 04:44 PM 
+To: Rick Buy/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT, 
+Marty Sunde/HOU/EES@EES, Neil Hong/HOU/EES@EES, Harold G 
+Buchanan/HOU/EES@EES, Dennis Benevides/HOU/EES@EES, Scott Gahn/HOU/EES@EES, 
+Thomas E White/HOU/EES@EES, Scott Stoness/HOU/EES@EES, John Wack/HOU/EES@EES, 
+Ford Cooper/HOU/EES@EES, Charles Decker/HOU/EES@EES, Sean A 
+Holmes/HOU/EES@EES, Jeremy Blachman/HOU/EES@EES, Rebecca 
+Phillips/HOU/ECT@ECT, Wade Stubblefield/HOU/EES@EES, David 
+Draper/HOU/EES@EES, Kevin Hughes/HOU/EES@EES, Kenneth Lee/HOU/EES@EES, Jerald 
+Surface/HOU/EES@EES, Minal Dalia/HOU/EES@EES, Jim Brown/HOU/EES@EES, Warren 
+Prihoda/HOU/EES@EES, Chris Leonard/HOU/EES@EES, Rick Baltz/HOU/EES@EES, Brian 
+J Butler/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Don 
+Black/SA/Enron@Enron, Darryl Kendrick/HOU/EES@EES, Tony Spruiell/HOU/EES@EES, 
+Suneet Sharma/HOU/EES@EES, Thomas J Donovan/HOU/EES@EES, Jubran 
+Whalan/HOU/EES@EES, Neil Bresnan/HOU/EES@EES, Rick Wurlitzer/HOU/EES@EES, 
+James W Lewis/HOU/EES@EES, Preston Ochsner/HOU/EES@EES 
+ce: 
+Subject: New RPS 
+To all, 
+The New Retail Power System (RPS) has been implemented, and there are several 
+features of RPS that I would like to share. 
+1.) 
+Our Net Open Position is more accurate as a result of booking deals more 
+reflective of batch models rather than Wholesale equivalent positions. 
+2.) 
+Our P&L is more accurate as a result of the position change and the 
+ability to import retail energy curves into RPS rather than only wholesale 
+curves. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E200B04A3 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-408033203149
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E200B04A3 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+3.) 
+T&D positions can now be captured for Deals in RPS. 
+4.) 
+Regulatory Switching Options are being captured in RPS, which captures 
+value of EES' option to serve customers during the CTC period. 
+5.) 
+Reporting capabilities are more timely and effective. 
+The Power Team is confident that RPS will better serve our business. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E200B04A3 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-408033203149

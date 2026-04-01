@@ -1,0 +1,93 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E62BA0065
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Georgi Landau <georgi.landau@enron.com>
+Sent:
+Tue, 8 May 2001 04:09:00 -0700 (PDT)
+To:
+Karen Lambert <karen.lambert@enron.com>
+Cc:
+Lisa Lees <lisa.lees@enron.com>, Tana Jones <tana.jones@enron.com>,
+Kelly Lombardi <kelly.lombardi@enron.com>, Stephanie Sever
+<stephanie.sever@enron.com>, Anthony Campos
+<anthony.campos@enron.com>
+Subject:
+Re: FW: Can Gas Fin Opt Put & Call - please process
+Okay with Financials.  Georgi
+From: Karen Lambert@ECT on 05/08/2001 09:28 AM
+To: Lisa Lees/ENRON@enronXgate @ ENRON
+cc: Tana Jones/HOU/ECT@ECT, Kelly Lombardi/NA/Enron@Enron, Stephanie
+Sever/ENRON@enronXgate@ENRON, Georgi Landau/NA/Enron@ENRON, Anthony
+Campos/HOU/ECT@ECT
+Subject: Re: FW: Can Gas Fin Opt Put & Call - please process
+Yes, Global agrees.
+From: Lisa Lees/ENRON@enronXgate on 05/08/2001 08:29 AM
+To: Tana Jones/HOU/ECT@ECT, Karen Lambert/HOU/ECT@ECT, Kelly
+Lombardi/NA/Enron@Enron
+cc: Stephanie Sever/ENRON@enronXgate
+Subject: FW: Can Gas Fin Opt Put & Call - please process
+The product long descriptions in the attachment directly below will fall
+under the new product types CAN Gas Financial Option Call and CAN Gas
+Financial Option Put.  Credit (Tom Moran) has approved copying the profiles
+for the new product type from the following:
+ CAN Gas Financial Swap
+Please respond no later than 10 a.m. on Wednesday, May 9.
+Thank you.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E62BA0065
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-087392922596
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E62BA0065
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+ -----Original Message-----
+From:  Lozano, Melba
+Sent: Wednesday, May 02, 2001 2:07 PM
+To: Lees, Lisa; Sever, Stephanie
+Cc: Cass, Robert B.; Walker, Chris; Meredith, Kevin; Draper, Lon
+Subject: Can Gas Fin Opt Put & Call - please process
+Lisa/Stephanie:
+Can Gas Fin Opt Call
+Can Gas Fin Opt Put
+Was uploaded a couple of weeks ago as an internal product.  They have not
+created any products under them.  Lon Draper in Canada wants to upload the
+following profile if it's ok with Legal and Credit. Let me know what you find
+out.
+Thanks,
+Melba
+#1
+      Product Type name: Can Gas Fin Opt Call (1992)
+GTC: Same as Can Gas Fin Swap (1063)
+Profile:   Copy external profiles (Bid, offer, tenor, investment grade flag,
+masters) from  Can Gas Fin Swap (1063)  EXCLUDE BROKERS/Broker Master Users &
+Broker Sub Users from file upload
+#2
+Product Type name: Can Gas Fin Opt Put (1993)
+GTC: Same as Can Gas Fin Swap (1063)
+Profile:  Copy external profiles (Bid, offer, tenor, investment grade flag,
+masters) from  Can Gas Fin Swap (1063)  EXCLUDE BROKERS/Broker Master Users &
+Broker Sub Users from file upload
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E62BA0065
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-087392922596

@@ -1,0 +1,69 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EDB9D83FF 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Clement Lau <clement.lau@enron.com> 
+Sent: 
+Fri, 21 Jan 2000 05:27:00 -0800 (PST) 
+To: 
+Benjamin Rogers <benjamin.rogers@enron.com>, Mathew Gimble 
+<mathew.gimble@enron.com>, Marilyn N Baker <marilyn.baker@enron.com> 
+Subject: 
+Standard Model 
+I have saved the file with a password "model" to restrict access. 
+[REDACTED] B6 
+PM --------------------------- 
+Clement Lau 
+01/20/2000 03:33 PM 
+To: Benjamin Rogers/HOU/ECT@ECT, Mathew Gimble/HOU/ECT@ECT, James 
+Simpson/HOU/ECT@ECT, Jason R Wiesepape/HOU/ECT@ECT 
+[REDACTED] B6 
+Subject: Standard Model 
+Ben, Matthew, Jim, Jason: 
+As per discussion, I have created a common folder 
+o:naes/from_ko/LM6000s/Control, for storage of the cost configuation model 
+and finanicial base model. 
+Since Ben has to model Lincoln by next week, I suggest we use his model as 
+the go forward base model from now onwards. By modeling an actual 
+transaction, it would be easier for us to identify needed changes and links. 
+If you guys have time, please look thru the model and list the changes 
+needed. We could then have a meeting next week to go through the suggestions 
+and discuss how to coordinate taking turns working on the model. 
+Ben: 
+I will continue making cosmetic changes to the model for now, but I would 
+make sure that the changes do not mess up the economics of the transaction. 
+Everyone: 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EDB9D83FF 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-554413044536
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EDB9D83FF 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+If any of you need to model anything, please use this base model. If you do 
+not have access to the directory, please create a security request form 
+through lotus notes. 
+Thanks. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EDB9D83FF 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-554413044536

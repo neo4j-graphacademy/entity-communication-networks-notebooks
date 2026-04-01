@@ -1,0 +1,40 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E841B651E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Debbie Moseley <debbie.moseley@enron.com> 
+Sent: 
+Fri, 8 Dec 2000 08:16:00 -0800 (PST) 
+To: 
+Bob Chandler <bob.chandler@enron.com>, Paul Cherry 
+<paul.cherry@enron.com>, John Dushinske <john.dushinske@enron.com>, 
+Dan Fancler <dan.fancler@enron.com>, Jeffery Fawcett 
+<jeffery.fawcett@enron.com>, Lee Ferrell <lee.ferrell@enron.com>, 
+Drew Fossum <drew.fossum@enron.com>, Steve Gilbert 
+<steve.gilbert@enron.com>, Steven Harris <steven.harris@enron.com>, 
+Rod Hayslett <rod.hayslett@enron.com>, Gerrad Heep 
+<gerrad.heep@enron.com>, Stanley Horton <stanley.horton@enron.com> 
+Subject: 
+ETS Hedged and Open Positions/Financial Exposure Positions 
+Please Note: 
+We have changed the correlation of the Transwestern's hedges to the same 
+index(El Paso Permian) that the derivatives were transacted. 
+We feel it is 
+appropriate to make this correlation change due to management's anticipation 
+to make the 2001 sales at an El Paso Permian index. 
+Due to this change TW 
+has a perfect correlation, therefore the associated Value at Risk will be 
+zero. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E841B651E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-183940856713

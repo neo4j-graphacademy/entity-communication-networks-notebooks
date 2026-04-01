@@ -1,0 +1,36 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E84B9687D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+enron_update@concureworkplace.com
+<enron_update@concureworkplace.com>
+Sent:
+Sat, 24 Dec 0001 22:25:01 -0800 (PST)
+To:
+Shapiro, Richard <richard.shapiro@enron.com>
+Subject:
+<<Concur Expense Document>> - RS112701
+The Payment status has changed on the following report:
+Status last changed by:  System
+Expense Report Name: RS112701
+Report Total: $154.42
+Amount Due Employee: $154.42
+Amount Approved: $154.42
+Amount Paid: $463.26
+Approval Status: Approved
+Payment Status: Paid
+To review this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E84B9687D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-680295536618

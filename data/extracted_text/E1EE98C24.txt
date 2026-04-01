@@ -1,0 +1,40 @@
+CONFIDENTIAL 
+Prima Corp. 
+Sane Wo. RO 2ZNN2Z N14 
+Gao No. ELEEQHO?4 
+Bane: S1/15/2003 
+ENRON CGRE. - PRODUCEG LURSUANT TS FERC SUBESENA. 
+SUBJECT IO ERGIECTIVE ORDER. CONFIDENTIAL IREAIMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Franeis S$ Lim <frarncis.lim@enron.cam> 
+Sent: 
+Tue, 27 Mar 29001 92:52:90 -98O0 (PST) 
+Ta: 
+Geeff Sterey <gqeoff.stereydenron.coam> 
+Subject : 
+NG Curves up te 290224 
+Geott, 
+Attached 18 yesterdays NG curves that goes cut more than 
+14 years. Its the curve that you talked to me about yesterday? 
+li ait is, this curve was entered by Dutch Quigley using curveloaad. 
+Francis 
+NOTES ONLY: 
+he curves were gererated using tne query below: 
+select ref period dt,curve amt 
+trom egs curves 
+where effective dt = ‘*26-mar-O1l’ 
+ang curve cd = ‘*hG' 
+and curve type ca = 'PR* 
+order by ref period dt 
+Sag New Ro GOD. O1938 
+ame No. 
+UTR AGRI 
+A 
+sab 
+ae le ne 
+UNBEA DURE . 
+PROUT TR SANT Ti BUTE BDRM ENA 
+SUECEATT Ti PROSPEROUS Vik DRE 
+GUIRD PEND PAL THREATENS) Regie 
+rn

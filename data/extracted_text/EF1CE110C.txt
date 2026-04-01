@@ -1,0 +1,69 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1CE110C
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Puthigai, Savita <savita.puthigai@enron.com>
+Sent:
+Fri, 31 Aug 2001 13:25:37 -0700 (PDT)
+To:
+EOL Non North America Traders <traders.eol@enron.com>, EOL North
+America Traders <traders.eol@enron.com>, EOL Call Center
+<center.eol@enron.com>, EOL Product Control Group, [REDACTED] B6,
+Enron London - EOL Product Control Group <group.enron@enron.com>,
+Product Control - Houston <houston.product@enron.com>
+Cc:
+Webb, Jay <jay.webb@enron.com>, Piper, Greg <greg.piper@enron.com>,
+Richter, Brad <brad.richter@enron.com>, Renaud, Lindsay
+<lindsay.renaud@enron.com>
+Subject:
+NEW ENRONONLINE FUNCTIONALITY
+Several changes have been made to Stack Manager and the website. These changes
+are outlined below and will be visible by all as of Monday September 3, 2001.
+Stack Manager Changes
+Activate/Inactivate Stack - This functionality allows the trader to pull a
+product's prices from the website without suspending the product. If the Top
+of Stack limit order functionality is activated for a particular product this
+should be used to pull the stack prices from the website without pulling the
+entire product; therefore, if there are top of stack limit orders against the
+product they will remain visible and transactable on the website.
+If a product's stack is inactivated the font for that product will be grayed
+out in stack manager. If the stack is active it will appear in black font.
+[REDACTED] B6
+[REDACTED] B6
+Website Change
+Restrictions on Top of Stack orders - If Top of Stack limit orders are allowed
+on a product, but the trader is not showing both a bid and offer, limit orders
+will not be able to be placed on that product.
+If you have any questions please call me at 31787. Thanks.
+Savita
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1CE110C
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-965785832357
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1CE110C
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+<Embedded Paintbrush Picture>
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1CE110C
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-965785832357

@@ -1,0 +1,53 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-26002-016038 
+Doc No. ETASFF31C 
+Dane: O1/15/2003 
+ENRON CORE. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Tue, 10 Apr 2001 91:41:90 -0790 (PDT} 
+To: 
+pete.davis@enron.com 
+Ce: 
+bert.meyers@enron.com, bill.williams,.I1I@enron.com, 
+Craig.Dean@enron.com, dporter3@enron.com, Eric.Linder@enron.com, 
+Geir.Solberg@enron.com, jbryson@enron.com, leaf. harasin@enron.com, 
+monika.causholli@enron.com, mark.guzman@enron.com, 
+pete.davisGenron.com, ryan.slinger@enron.com 
+Subject: 
+Start Date: 4/10/01; HourAhead hour: 9; 
+<CODESITE> 
+Start Date: 4/10/01; HourAhead hour: 9; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in SC Trades schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001041009. 
+txt 
+---- $C Trades Schedule ---- 
+$$$ Variance found in table tbhlInt_Interchange. 
+Details: (Hour: 9 / Preferred: -175.00 / Final: -174.97) 
+TRANS_TYPE: FINAL 
+SC_ID: EPMI 
+MKT_TYPE: 2 
+TRANS_DATE: 4/10/01 
+TRADING_SC: ECH1 
+PNT_OF_INTRC: SP15 
+SCHED TYPE: ENGY 
+PURCH_SALE: 1 
+DEAL _NO: 1 
+SOAR DDERT DAL 
+Enron Gerp. 
+Sase No. RC-PdC2-51078 
+vec No. RAR E3LS 
+pater 
+C1f 8/7003 
+ERRGN TORP. - PRODUCED PURSUANT TO SEAC SUBPORNA. 
+SLBCECT TC PROTROLDIVE ORGAR. CORE OCSANYTIAL TREATKERT ReOLE 
+ES Tsis. 
+ERRON- 212961875624

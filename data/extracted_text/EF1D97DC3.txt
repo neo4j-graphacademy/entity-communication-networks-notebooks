@@ -1,0 +1,169 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Fergus, Gary S. <gfergus@brobeck.com>
+Sent:
+Fri, 25 May 2001 18:51:00 -0700 (PDT)
+To:
+Amanda Smith <adsmith@brobeck.com>, Andy Pickens (E-mail)
+<apickens@gibbs-bruns.com>, Barrett H. Reasoner (E-mail)
+<breasoner@gibbs-bruns.com>, David J. Noonan (E-mail)
+<djn@pkns.com>, Jean Frizzell (E-mail) <jfrizzell@gibbs-bruns.com>,
+Michael L. Kirby (E-mail) <mlk@pkns.com>, Michael Molland
+<mmolland@brobeck.com>, Mike D. Smith (E-mail) <msmith1@enron.com>,
+Peter Meringolo <pmeringolo@brobeck.com>, Richard B. Sanders Esq.
+(E-mail) <richard.b.sanders@enron.com> ...
+Subject:
+FW: Enron: Response to Criminal Charges
+Here is follow-up research on the question of whether we could remove a
+criminal case against Enron to federal court.  It is not as promising as we
+first thought.
+Thanks
+Gary
+> -----Original Message-----
+> From: Smith, Amanda D.
+> Sent: Thursday, May 24, 2001 5:59 PM
+> To:   Fergus, Gary S.
+> Cc:   Molland, Michael E.; Meringolo, Peter
+> Subject:      Enron: Response to Criminal Charges
+>
+> Gary,
+>
+> Our earlier preliminary research reflected the fact that, although it will
+> likely be difficult, it may be possible under the primary jurisdiction
+> doctrine to refer criminal charges to FERC, given the criminal penalty
+> provisions of the Federal Power Act.  However, as it becomes more clear
+> that, if criminal charges are to be filed, they will be filed in
+> California, it is necessary to revisit and expand this earlier research.
+>
+> We noted earlier that there is a body of substantive law dealing generally
+> with the question of whether criminal proceedings are subject to the
+> primary jurisdiction doctrine, but no case which considered this question
+> with respect to the Federal Power Act specifically.  Based on this, we
+> concluded that it may be possible, if difficult, to argue that criminal
+> charges should be referred to FERC under the primary jurisdiction
+> doctrine.  An expansion of this research reveals that this potential for
+> referral appears to only be applicable to federal criminal charges.
+>
+> State criminal charges are not removable under 28 U.S.C. Section 1441,
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-743243128425
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+> which provides that:  "[e]xcept as otherwise expressly provided by Act of
+> Congress, any civil action brought in a State court of which the district
+> courts of the United States have original jurisdiction, may be removed by
+> the defendant or the defendants, to the district court of the United
+> States for the district and division embracing the place where such action
+> is pending."  Moreover, our research has revealed no case in which state
+> criminal charges were referred directly to any federal regulatory agency.
+>
+>
+> However, our research has revealed another alternative to removal or
+> referral of criminal charges.  See generally Sprint Corp. v. Evans (M.D.
+> Al. 1993) 818 F.Supp. 1447; Sprint Corp. v. Evans (M.D. Al. 1994) 846
+> F.Supp. 1497.
+>
+> In 1993, the Attorney General of Alabama began an investigation of Sprint
+> Corporation, an international telecommunications company acting as a
+> "common carrier" within the meaning of the federal Communications Act.
+> Sprint, among other things, provided a "1-800" service to subscribers
+> pursuant to tariffs filed with the FCC.   To use these "1-800" numbers, a
+> caller places a call through a local telephone company, who connects the
+> call to a long distance carrier such as Sprint, who generally then
+> connected the call to the "1-800" subscribers local telephone number.
+>
+> In February 1993, Sprint received a subpoena from the Montgomery County
+> Grand Jury commanding it to appear and produce all records relating to the
+> "1-800" service.  Sprint produced the documents and learned that it was
+> under investigation for violation of Alabama's obscenity laws in
+> connection with allegedly obscene content distributed over telephone
+> lines.
+>
+> In March 1993, Sprint filed a motion for a temporary restraining order
+> (TRO) and a preliminary injunction seeking to enjoin the Alabama Attorney
+> General from pursuing a criminal indictment against Sprint for violation
+> of the obscenity law.  Sprint maintained enforcement of the anti-obscenity
+> law would interfere with federal statutory rights because regulation of
+> interstate communications is within the exclusive jurisdiction of the FCC.
+> At the TRO hearing the Attorney General could not testify that the
+> prosecution was not imminent and, therefore, the court issued the TRO.
+>
+> Later in March, the Court decided Sprint's motion for a preliminary
+> injunction.  Sprint Corp. v. Evans (M.D. Al. 1993) 818 F.Supp. 1447.  At
+> the hearing on this motion, counsel for the Attorney General stated that
+> the Attorney General's position regarding Sprint's criminal liability
+> under the obscenity statute related to the its obligations under that law
+> when a telephone customer complains that a "1-800" subscriber's message is
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-743243128425
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+> offensive.  According to counsel, if a customer complains, Sprint is
+> obligated to either report the complaint to a prosecuting attorney or
+> begin a declaratory judgment action against the subscriber.
+>
+> The District Court granted the preliminary injunction.  The court held
+> that, under the relevant Eleventh Circuit test for determining whether a
+> preliminary injunction should issue, the movant must show:  "(1) a
+> substantial likelihood that she will ultimately prevail on the merits;
+> (2) that she will suffer irreparable injury unless the injunction issues;
+> (3) that the threatened injury to the movant outweighs whatever damage the
+> proposed injunction may cause the opposing party;  and (4) that if issued,
+> the injunction would not be adverse to the public interest."   Sprint, 818
+> F.Supp. at 1452.
+>
+> Before the Court considered the first element of this test, the Court
+> addressed the contention that the District Court had no jurisdiction.  The
+> Court held that: "[t]he Supreme Court, however, has held that federal
+> courts have federal-question jurisdiction under 28 U.S.C.A. S 1331 to
+> entertain suits to enjoin state officials from interfering with federal
+> statutory rights."
+>
+> The Court then held that there was a substantial likelihood that Sprint
+> would prevail on the merits because "to the extent that the Alabama
+> anti-obscenity statute attempts to impose reporting requirements on
+> communications by common carriers, it is interstate in nature and
+> preempted by federal law.... The statute is being used as a mechanism to
+> impose new reporting requirements on common carriers with regard to their
+> 800 service.   Currently, under federal law, common carriers do not have
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF1D97DC3
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-743243128425

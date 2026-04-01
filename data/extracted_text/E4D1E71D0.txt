@@ -1,0 +1,43 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E4D1E71D0
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Kay Mann <kay.mann@enron.com>
+Sent:
+Tue, 13 Jun 2000 02:08:00 -0700 (PDT)
+To:
+Gregg Penman <gregg.penman@enron.com>
+Subject:
+Park and Loan
+As promised...
+---------------------- Forwarded by Kay Mann/Corp/Enron on 06/13/2000 09:08
+AM ---------------------------
+"Boyd J. Springer" <Boyd_J._Springer@jonesday.com> on 06/13/2000 08:52:58 AM
+To: dtucker@bracepatt.com, cdade@bracepatt.com, kay.mann@enron.com
+cc:
+Subject: Park and Loan
+_______________________________________________________________
+This message and any attachments are intended for the individual or entity
+named above.  If you are not the intended recipient, please do not read,
+copy, use or disclose this communication to others; also please notify the
+sender by replying to this message, and then delete it from your system.
+Thank you.
+_______________________________________________________________
+On further review, I don't think we need to challenge the proposed
+reference to Parking and Loaning Transactions as being "interruptible".
+Although Peoples' GTC does not characterize this service as interruptible,
+there are provisions in the GTC re scheduling and priority that render the
+service interruptible, e.g. Sect. 6.3.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E4D1E71D0
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-655325579756

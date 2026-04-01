@@ -1,0 +1,94 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E75B23799 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Daren J Farmer <daren.farmer@enron.com> 
+Sent: 
+Thu, 19 Oct 2000 08:10:00 -0700 (PDT) 
+To: 
+Liz Bellamy <liz.bellamy@enron.com> 
+Subject: 
+POPS Production downtime request 
+FYI. 
+You may want to check with someone to see if this will affect you this 
+weekend. 
+D 
+Soo caccna-on---------- Forwarded by Daren J Farmer/HOU/ECT on 10/19/2000 
+03:08 PM ------------------- 77-77-77 
+Romeo D'Souza 
+10/19/2000 02:53 PM 
+To: Pat Clynes/Corp/Enron@ENRON 
+cc: Anita K Patton/HOU/ECT@ECT, Clem Cernosek/HOU/ECT@ECT, Michael 
+Eiben/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Gary 
+A Hanks/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Neil 
+Leininger/NA/Enron@Enron 
+Subject: POPS Production downtime request 
+The POPS Production database server will be down over the weekend for a 3 
+hour period 
+for memory upgrade. Please let me know if there is a preferred 3hr window, if 
+there is 
+no problem with y'all, 
+can we will request the maintenance between 12-3pm 
+Saturday 10/21/00. 
+T'll inform y'all of the actual timeframe once its finalized, since there are 
+other systems 
+[REDACTED] B6 
+thanks 
+Romeo 
+---------------------- Forwarded by Romeo D'Souza/HOU/ECT on 10/19/2000 02:47 
+PM ------------- 3-3-3 
+From: Neil Leininger@ENRON on 10/19/2000 02:01 PM 
+To: Christine Pham/HOU/ECT@ECT, Romeo D'Souza/HOU/ECT@ECT 
+ce: 
+Subject: downtime request 
+FYI 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E75B23799 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-656222077073
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E75B23799 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+---------------------- Forwarded by Neil Leininger/NA/Enron on 10/19/2000 
+02:02 PM ---------------- 
+Malcolm.Wells@enron.com on 10/19/2000 01:54:49 PM 
+To: dba@enron.com 
+ce: 
+Subject: downtime request 
+The UNIX Infrastructure team would like to request downtime on system 
+[REDACTED] B6 
+to replace BEFORE they cause a problem. 
+We are requesting 3 hours to 
+perform the memory replacement. 
+The following databases would be effected: 
+eqtprod 
+dcfprod 
+popprod 
+trdprod 
+semprod 
+sitprod2 
+infprd53 
+Please let me know if/when we can have time for this maintenance. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E75B23799 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-656222077073

@@ -1,0 +1,57 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E0445B205 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Sara Shackleton <sara.shackleton@enron.com> 
+Sent: 
+Mon, 12 Jun 2000 11:45:00 -0700 (PDT) 
+To: 
+Carol St Clair <carol.clair@enron.com>, Susan Bailey 
+<susan.bailey@enron.com>, Susan Flynn <susan.flynn@enron.com>, Tana 
+Jones <tana.jones@enron.com>, Samantha Boyd 
+<samantha.boyd@enron.com> 
+Ce: 
+Mark Taylor <mark.taylor@enron.com> 
+Subject: 
+"Termination Payments" - Part 5 (b) (k) to the ISDA Master Agreement 
+This provision is an election which we have added to the Schedule for 
+governmental entities. 
+I believe that it is intended to eliminate any 
+confusion that historically arose during the debate between "First Method" 
+(one-way payments) and "Second Method" (two-way payments) for Early 
+Termination purposes. 
+Although I can't find a good reason to continue to use 
+this provision with an ISDA (except that it emphasizes the point), I can 
+understand why we may have added it to a pre-ISDA agreement with a 
+governmental. 
+The only example that I could locate was our September 21, 
+1995 Master Agreement with Reedy Creek Improvement District. 
+For those of 
+you who have never seen this form, it was one of the two types of master 
+agreements developed by ECT before we became conversant with ISDA. 
+Because 
+these forms didn't contemplate municipal counterparties, we had to add many 
+of the ISDA U.S. Municipal Counterparty Schedule provisions. 
+The Part 
+5 (b) (k) provision originally appeared in this early agreement. 
+It was 
+included in the "Event of Change" section [5F(4)] (which is tantamount to the 
+ISDA concept of "Illegality", a "Termination Event"). 
+I think it was 
+probably included because in the ISDA, Second Method is the automatic payment 
+method if the parties fail to make a specific designation for Early 
+Termination purposes, but there isn't a comparable provision in the old ECT 
+form. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E0445B205 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-146858712159

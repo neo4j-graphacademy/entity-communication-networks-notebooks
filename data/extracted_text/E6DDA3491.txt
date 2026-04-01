@@ -1,0 +1,70 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6DDA3491
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Michelle Cash <michelle.cash@enron.com>
+Sent:
+Fri, 9 Jun 2000 03:12:00 -0700 (PDT)
+To:
+[REDACTED] B6
+Subject:
+Shift Differentials and Overtime Payment
+Kerry,  What are your thoughts on this issue?
+Michelle
+Michelle,
+We have had a couple of interpretations as to how to calculate the overtime
+for employees who receive a shift differential and wanted to ask for
+assistance from you.  The problem we are having deals with employees who
+[REDACTED] B5
+For a simple example with an ee at $10/hour and shift of $1/hour for the
+Night (N) shift.
+  M T W Th F S
+REG  8 8 8 8 8
+OT       8
+SHIFT  N N D D D D
+Interpretation 1
+The shift differential would be added to his pay to determine the regular
+rate of pay and his pay would be calculated as follows:
+REG  $400
+SHIFT       16
+[REDACTED] B5
+Interpretation 2
+Since his overtime was during a day shift, his pay would be calculated as
+follows:
+REG  $400
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6DDA3491
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-158265300642
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6DDA3491
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+SHIFT       16
+OT    120.00 (400/40 x 1.5)
+Can you please let us know which interpretation is correct or if we have
+totally missed the boat on both of them?
+Thanks for your help,
+Diane
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6DDA3491
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-158265300642

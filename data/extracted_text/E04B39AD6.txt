@@ -1,0 +1,187 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Timothy, Justin <justin.timothy@enron.com>
+Sent:
+Tue, 6 Nov 2001 18:19:54 -0800 (PST)
+To:
+Musch, Susan <susan.musch@enron.com>, Niesler, Stefan
+<stefan.niesler@enron.com>
+Cc:
+McBride, Jane <jane.mcbride@enron.com>, Sayre, Frank
+<frank.sayre@enron.com>, Taylor, Mark E (Legal) <.taylor@enron.com>,
+Minns, David <david.minns@enron.com>, Aronowitz, Alan
+<alan.aronowitz@enron.com>
+Subject:
+RE: EOL - New Product - JPY denominated WTI Swap
+Susan,
+I can answer the question that you have in regards to what extent the product
+descriptions differ from the existing swaps being traded by ENA. The only
+difference will be the currency - nothing else.
+Regards
+Justin
+ -----Original Message-----
+From:   Musch, Susan
+Sent:   Wednesday, 7 November 2001 1:12 PM
+To:     Niesler, Stefan
+Cc:     McBride, Jane; Sayre, Frank; Taylor, Mark E (Legal); Minns, David;
+Aronowitz, Alan; Timothy, Justin
+Subject:        RE: EOL - New Product - JPY denominated WTI Swap
+Stefan,
+Sorry I didn't respond sooner; it's been really hectic around here.
+The GTC looks fine; it's the standard GTC for ENA financial products.
+The product descriptions generally look fine as well.  One question I have,
+however, is to what extent the attached product descriptions differ (apart
+from being denominated in USD rather JPY) from the WTI swaps currently being
+traded by ENA?
+Also, the memo that Joe sent to Jeff states that:
+"the products are part of Enron Japan's overall effort to extend Enron's crude
+and products business to Japan.  It will be marketed to customers as one
+potential means to meet their risk management requirements."
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-130850057530
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+Pursuant to our previous discussions and e-mails, I understand that Enron
+Japan will not be involved with these products.  If this is not the case, we
+need to discuss what the facts are specifically going to be so as to avoid any
+tax issues for ENA or Enron Japan arising from any of their activities
+relating to this product (e.g., such as marketing).  Please confirm what the
+facts are going to be (as they currently stand).
+Best regards,
+Susan
+ -----Original Message-----
+From:   Niesler, Stefan
+Sent:   Tuesday, November 06, 2001 6:45 PM
+To:     Musch, Susan
+Cc:     McBride, Jane
+Subject:        FW: EOL - New Product - JPY denominated WTI Swap
+Importance:     High
+Susan,
+Below are the documents Jane sent to Legal HOU for approval.
+As you see we intent to be live by Thursday. We hope to have the documents in
+the system later today (Wed. your time). Could you take a look at the
+documents and let Jane/me know if you see any issues in signing off on the
+product? We might want to ask you for sign-off by tomorrow.
+Thanks!
+StN
+ -----Original Message-----
+From:   McBride, Jane
+Sent:   Tuesday, November 06, 2001 8:01 PM
+To:     Sayre, Frank
+Cc:     Taylor, Mark E (Legal); Aronowitz, Alan; Minns, David; Timothy,
+Justin; Niesler, Stefan
+Subject:        RE: EOL - New Product - JPY denominated WTI Swap
+Importance:     High
+Dear Frank,
+Many thanks for helping out on this.  Should be pretty straight forward I
+think because it is not a "new" product so much as a slightly revised version
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-130850057530
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+of an existing product (US WTI).
+There has also been a development which makes it even simpler.  At first the
+product was going to be WTI (which is usually in USD and barrels) in JPY and
+kiloliters but apparently EOL have said kiloliters wont actually work so the
+only twist is that this product will be in yen and not USD.
+I have therefore amended the documents I sent yesterday (so I hope you haven't
+looked at them yet ...) to take the barrel / KL conversion language out (and
+to remove the glitch from the Business Day definition in the GTCs).
+Accordingly, this email is exhaustive and you can ignore the one I sent
+yesterday (which was at the bottom of Alan's email to me).
+I am attaching a number of documents.
+(i)     The first is an internal memo re two new products Enron Japan wants to
+put on EOL.  The Enron CP will be ENA which is why I need your help before
+going to Mark.  The memo describes the product generally and how it will work
+(and sets out the background as to why EJ is pushing this initiative).  This
+is FYI only.
+(ii) & (iii)    These are the (ii) draft product descriptions and (iii) GTCs
+and we need ENA legal sign off re same.  If you are happy with these then I
+will pass to Mark Taylor for final approval (assuming I still need his
+approval if you have approved - can you confirm this I wonder).  If you have
+any questions, please let me know.
+Both documents have been prepared based on the product descriptions and the
+GTCs currently used for the USD WTI product.
+Re the Product Descriptions - in addition to those changes to the US WTI
+product description which were needed to reflect the fact that these products
+are in yen (and not in USD), we have used upper case for Business Days
+(because it is defined in the GTCs and the definition is important because it
+will not refer to Japanese holidays) and I have incorporated a new definition
+"the relevant Scheduled Trading Date" so that in accordance with what I
+understand to be standard EOL procedure, the top half of the product
+description can be the same for both products (despite the fact that the
+currency exchange will be done 3 days after a different date in the case of
+the two definitions) and only the bottom half will need to change.  (I know
+this is not a great way to include definitions in an agreement but I am just
+trying to keep my changes consistent with the current WTI Product Description
+methodology.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-130850057530
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+I have made no changes to the current WTI GTCs.  I have assumed that when NY
+law applies to "foreign" products, we don't usually amend the arbitration
+clause despite the fact that the products are likely to be purchased by non-US
+counter parties.  I am less sure however about the events of default clause.
+The language seems pretty short and generic so I suspect that we probably
+don't put CP jurisdiction specific events in but please confirm.
+I understand you are all under pressure there so wonder when you expect you
+would be able to revert so that I can let the business people here know.
+Apparently  GTCs can only be loaded once a week at Wed. noon (HOU time) so
+unless you can see your way through to doing this during your Tuesday (i.e.
+today your time) - provided I hear from you by Tuesday next week, this would
+be fine.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E04B39AD6
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-130850057530

@@ -1,0 +1,89 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E24FF611E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Stephanie Sever <stephanie.sever@enron.com>
+Sent:
+Tue, 1 May 2001 08:45:00 -0700 (PDT)
+To:
+Tana Jones <tana.jones@enron.com>, Karen Lambert
+<karen.lambert@enron.com>, Kelly Lombardi <kelly.lombardi@enron.com>
+Cc:
+Lisa Lees <lisa.lees@enron.com>, Tom Moran <tom.moran@enron.com>,
+Carlos Alatorre <carlos.alatorre@enron.com>
+Subject:
+FW: profiles
+Tana/Kelly/Karen
+The product long description below will fall under the new product type
+Financial Currency Forward.  Credit (Tom Moran) has approved copying the
+profiles for the new product type from the following:
+ CAN Gas Fin Swap
+Please respond no later than 11 a.m. on Wednesday, May 2.
+Thank you.
+ -----Original Message-----
+From:  Moran, Tom
+Sent: Tuesday, May 01, 2001 2:24 PM
+To: Sever, Stephanie
+Cc: Lees, Lisa
+Subject: FW: profiles
+Stephanie,
+Please copy the existing counterparty profiles from CAN Gas Fin Swap and use
+it for the new product Financial Currency Forward.
+Thanks!
+tm
+ -----Original Message-----
+From:  Sever, Stephanie
+Sent: Tuesday, May 01, 2001 12:08 PM
+To: Moran, Tom
+Cc: Lees, Lisa
+Subject: FW: profiles
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E24FF611E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-679630412014
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E24FF611E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+ -----Original Message-----
+From:  Lozano, Melba
+Sent: Tuesday, May 01, 2001 11:41 AM
+To: Sever, Stephanie; Lees, Lisa
+Subject: FW: profiles
+Product Type name: Financial Currency Forward (2022)
+GTC:
+Profile: Copy external profiles (Bid, offer, tenor, investment grade flag,
+masters) from  ????  EXCLUDE BROKERS from file upload
+ -----Original Message-----
+From:  Melba Lozano
+Sent: Monday, April 02, 2001 10:21 PM
+To: Lisa Lees; Stephanie Sever
+Cc: Robert B Cass; Kevin Meredith; Chris Walker
+Subject: profiles
+I need the following Profile:
+Product Type    GTC     Profile
+Financial Currency Forward (2022)               Copy external profiles (Bid,
+offer, tenor,
+investment grade flag, masters) from  ????  EXCLUDE BROKERS from file upload
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E24FF611E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-679630412014

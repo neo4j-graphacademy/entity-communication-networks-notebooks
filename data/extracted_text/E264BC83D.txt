@@ -1,0 +1,34 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E264BC83D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+From:
+ARSystem <arsystem@mailman.enron.com>
+Sent:
+Mon, 31 Dec 2001 17:28:10 -0800 (PST)
+To:
+Kaminski, Vince J <j.kaminski@enron.com>
+Subject:
+Approval is Overdue: Access Request for punit.rawal@enron.com
+This request has been pending approval for  15 days and you are the alternate.
+Please click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000078941&Page=Approval
+to review and act upon this request.
+Request ID          : 000000000078941
+Approver            : sandeep.kohli@enron.com
+Request Create Date : 12/11/01 10:30:56 AM
+Requested For       : punit.rawal@enron.com
+Resource Name       : \\enehou\houston\common\Research - [Read]
+Resource Type       : Directory
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E264BC83D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-363700549692

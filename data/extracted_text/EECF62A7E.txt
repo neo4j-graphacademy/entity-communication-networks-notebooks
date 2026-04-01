@@ -1,0 +1,72 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EECF62A7E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+From:
+Cotten, Robert <robert.cotten@enron.com>
+Sent:
+Wed, 25 Apr 2001 09:02:22 -0700 (PDT)
+To:
+Weissman, George <george.weissman@enron.com>
+Ce:
+Melissa Graves, Daren J Farmer, Terry, Edward
+<edward.terry@enron.com>, Vance L Taylor
+Subject:
+Missing Deals - May, 2001
+George,
+The following volumes are included in the May, 2001 spreadsheet but deals do
+not exist in Sitara.
+Daren has requested that we be advised by noon today of
+the information on pricing ( i.e., Gas Daily or IFHSC).
+Thanks.
+Counterparty
+Meter
+Zone
+Nomination
+Carrizo Oil & Gas
+9888
+12
+10,000
+Comstock Oil & Gas
+9878
+20
+100
+D & P Operating ?
+001(Gulf Coast) 5,000
+Ergon Exploration
+9880
+08
+9,000
+HESCO Gathering 9649
+?
+300
+HESCO Gathering 9876
+05
+85
+HESCO Gathering 9885
+05
+1,100
+Louis Dreyfus
+9874
+14
+750
+Suemaur Exploration
+9881
+02
+1,300
+United Oil & Mineral
+9887
+19
+2,000
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EECF62A7E
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-951611512191

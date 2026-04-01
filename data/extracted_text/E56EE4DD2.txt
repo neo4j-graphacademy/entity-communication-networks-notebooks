@@ -1,0 +1,44 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. ES56RE4DD2 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Wagner, Glenda <glenda.wagner@enron.com> 
+Sent: 
+Wed, 16 Jan 2002 04:43:43 -0800 (PST) 
+To: 
+Blair, Lynn <lynn.blair@enron.com>, Buchanan, John 
+<john.buchanan@enron.com>, Holmes, Bradley 
+<bradley.holmes@enron.com>, Kowalke, Terry 
+<terry.kowalke@enron.com>, Kuehl, Toby <toby.kuehl@enron.com>, 
+Nacey, Sheila <sheila.nacey@enron.com>, Schoolcraft, Darrell 
+<darrell.schoolcraft@enron.com>, Hottap HelpDesk 
+<helpdesk .hottap@enron.com> 
+Ce: 
+Abshire, Scott <scott.abshire@enron.com>, Daze, Don 
+<don.daze@enron.com>, Hotte, Steve <steve.hotte@enron.com>, Kedwaii, 
+Hasan <hasan.kedwaii@enron.com>, McFarland, Jean 
+<jean.mcfarland@enron.com>, Sawyer, Lisa <lisa.sawyer@enron.com, 
+Smith, Chris A. <a..smith@enron.com>, Wagner, Glenda 
+<glenda.wagner@enron.com> 
+Subject: 
+All Tests Were NOT Successfully Executed 
+All testing was completed. 
+We were notified by the HotTap Helpdesk there were 
+problems with external TMS customers. 
+The HotTap support team is working on 
+this issue. 
+We have confirmed with the ENW Resolution Center that the 
+Exchange servers are up. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E56BRE4DD2 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-304440524768

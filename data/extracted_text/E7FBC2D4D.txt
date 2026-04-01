@@ -1,0 +1,184 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Steve Arlowe <sarlowe@tr.com>
+Sent:
+Wed, 7 Feb 2001 01:59:00 -0800 (PST)
+To:
+cwall <cwall@tr.com>
+Subject:
+TR's State NewsWire 02/07/01 8 A.M. Edition
+Telecommunications Reports presents . . . . . TR's State NewsWire
+February 7, 2001 8 A.M. Edition
+STATES
+GEORGIA -- PSC approves 'multiple overlay' for '678' area code
+WYOMING -- Senate OKs Uniform Electronic Transactions Act
+ILLINOIS -- Democrats appointed to committee that will address 'open
+access'
+FLORIDA -- PSC sets deadline for telecom firms to provide '711' relay
+access
+OHIO -- Bill to restrict e-mail advertising to be heard next week
+IDAHO -- Bill directs PUC to open service-quality rulemaking
+TEXAS -- AT&T asks commission not to delay USF review until 2003
+HAWAII -- Lawmakers to consider 'open access' bill
+MASSACHUSETTS -- Bill would forbid assessing elderly long distance
+service charge
+GEORGIA -- Legislator takes aim at drivers using hand-held wireless
+phones
+VIRGINIA -- Prison phone bill clears committee
+MINNESOTA -- Legislators take aim at telemarketers
+ILLINOIS -- Measure would prohibit Internet gambling
+NEW YORK -- Verizon debuts new calling features in New York City
+NETWORK MANAGEMENT
+GEORGIA
+PSC approves 'multiple overlay' for '678' area code
+The Public Service Commission yesterday approved a "multiple overlay"
+plan to relieve NXX code exhaustion in the "678" number planning area
+(NPA), a commission staff member told TR.  A new area code will overlay
+the 678 NPA, which is already an overlay for the "404" and "770" area
+codes.
+The relief plan will allow existing customers to keep the 678 area code
+and will continue to require 10-digit dialing.  When the 678 NPA is
+exhausted, code assignments will be made in the new overlay area code.
+The 678 NPA has enough codes to last through August, and the new area
+code is scheduled to take effect Aug. 7.  In addition, the remaining
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-052613353353
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+codes in the 404 NPA will continue to be available until they are
+exhausted.  (Docket no. 10448-U)
+INTERNET
+WYOMING
+Senate OKs Uniform Electronic Transactions Act
+The Senate has approved the Uniform Electronic Transactions Act (SB 116)
+by a 27-3 vote.  SB 116 would give legal effect to electronic
+signatures, ensuring that a record or signature wouldn't be denied legal
+enforceability solely because it was in electronic form.
+The measure would apply only to transactions where both parties have
+agreed to conduct business through electronic means.  A party that
+agreed to conduct a transaction by electronic means could refuse to
+conduct other transactions electronically.  Additionally, no individual
+could waive this right.
+SB 116 wouldn't apply to wills, codicils, or testamentary trusts.  SB
+116, which was sponsored by Sen. John Hanes (R., District 5) and Rep.
+Bruce Burns (R., District 51), awaits committee referral in the House.
+ADVANCED SERVICES
+ILLINOIS
+Democrats appointed to committee that will address 'open access'
+The House Democratic leadership has appointed six members to the
+Computer Technology Committee.  The Republicans likely will appoint
+members to the committee by the end of this week or early next week, a
+legislative staff member told TR.
+Rep. Connie Howard (D., District 32) will chair the committee.  The
+other Democratic members are Reps. Julie Hamos (District 18), Jay
+Hoffman (District 112), Louis Lang (District 16), Todd Stroger (District
+31), and Karen Yarbrough (District 7).
+Rep. Jeffrey Schoenberg's (D., Evanston) proposed Internet Access
+Enhancement Act has been referred to the committee.  (1/11/01 p.m.)  A
+hearing has been scheduled for tomorrow but likely will be cancelled if
+the Republican leadership has finalized its appointments.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-052613353353
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+HB 138 would require a provider of high-speed broadband Internet access
+that also is a cable TV operator, or an affiliate of a high-speed
+broadband Internet service provider, to allow any requesting ISP to
+access its high-speed broadband services.  The access would have to be
+provided at rates, terms, and conditions that are "at least as
+favorable" as those that the broadband ISP provides to itself, an
+affiliate, or any other person.
+CUSTOMER-AFFECTING
+FLORIDA
+PSC sets deadline for telecom firms to provide '711' relay access
+The Public Service Commission has set Aug. 1 as the deadline for the
+state's telecom companies to provide speech- and hearing-impaired
+customers with access to the Florida Relay Service through the "711"
+telephone number.  The 711 number facilitates access to the relay system
+by eliminating the need to dial an 11-digit toll-free number, which was
+required until now and differs from one state to another.  The FCC has
+ordered all states to implement 711 access to relay service by Oct. 1.
+INTERNET
+OHIO
+Bill to restrict e-mail advertising to be heard next week
+The Senate Economic Development, Technology, and Aerospace Committee has
+scheduled a Feb. 13 hearing on a bill to prohibit the transmission of
+unsolicited e-mail advertisements.  (2/5/01 a.m.)  The hearing is
+scheduled for 11 a.m. in the Senate's South Hearing Room.
+Under SB 8, the recipient of an e-mail advertisement transmitted in
+violation of the legislation could bring a civil action against the
+violator.  The recipient could recover actual damages or $10 per e-mail
+advertisement and attorney's fees and court costs.
+The committee held its first hearing on the bill yesterday, during which
+its sponsor, Sen. Ron Amstutz (R., District 22), testified.  The
+committee will hold at least three more hearings on the measure, a
+legislative staff member told TR.
+Many different parties have expressed interest in SB 8, but no one has
+come out in strong opposition or support of it, the staff member said.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-052613353353
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+CUSTOMER-AFFECTING
+IDAHO
+Bill directs PUC to open service-quality rulemaking
+A bill has been introduced in the House that would direct the Public
+Utilities Commission to open a rulemaking to set new telecom
+service-quality standards.  HB 127 would require the commission to draft
+rules that would apply to all telecom services necessary to provide
+local exchange service.
+The commission currently only has one rule related to service quality,
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7FBC2D4D
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-052613353353

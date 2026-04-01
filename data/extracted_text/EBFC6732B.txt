@@ -1,0 +1,156 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-C01038 
+Doc No. EBFC6?T32B 
+Bate: O1/15/2053 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO EROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Enron Announcements <enron,announcements@enron. 
+com> 
+Sent: 
+Fri, 25 May 2001 07:17:90 -0790 (PDT} 
+To: 
+Houston Outage Report <houston.report@enron.com> 
+Subject : 
+SUPPLEMENTAL Weekend Outage Report for 5-25-01 through 5-29-01 
+WEE K EWN D 
+S ¥ $ TEMS AVAILABILITY 
+FOR 
+May 25, 2001 5:00pm through May 29, 2001 12:00am 
+ECS to ECN Network Interconnection, June 9th 2001 
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (FCS) to the existing Enron Center North (BCN}) backbone network. 
+While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities. 
+No 
+network hardware or systems are anticipated to be shutdown. 
+The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center. 
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed. 
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information, 
+SCHEDULED SYSTEM OUTAGES: 
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages, 
+AZURIX: No Scheduled Outages. 
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages. 
+EDI SERVER: No Scheduled Outages. 
+COME TDERT DAL. 
+Enron Gerp. 
+Case No. RO-2002-51078 
+vec No. REE CG ?32i 
+Sater 
+G.¢ 5/2003 
+ERRGN TORP. - PRODUCED PURSUANT TO SEAC SUBPORNA. 
+SLBCEET TO PROTRODIVE CORGSR. CORE DIANTIAL TREATMERT RAQULEE Tacs. 
+EKRON-CO4227 974768
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-C01038 
+Doc No. EBFC6?T32B 
+Dare: O1/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages 
+ENRON NORTH AMERICAN LANS: 
+SEE ORIGINAL REPORT 
+FIELD SERVICES: 
+No Scheduled Outages. 
+INTERNET: No Scheduled Outages. 
+MESSAGING: 
+SEE GRIGINAL REPORT 
+MARKET DATA: No Scheduled Outages. 
+NT: No Scheduled Outages. 
+OS/2: 
+No Scheduled Outages. 
+OTHER SYSTEMS: 
+SEE GRIGINAL REPORT 
+SITARA: 
+No Scheduled Outages. 
+SUN/OSS SYSTEM: 
+Impact: 
+CORP 
+Time: 
+Fri 5/25/2001 at 
+5:00:00 PM thru Fri 5/25/2001 at 
+7:00:00 PM 
+Outage: 
+Memory replacement for server refraction. 
+Disruption: 
+Total Disruption of Service 
+Environments Impacted: 
+DPR and EnTelligence 
+Purpose: To replace a memory module that has repeated error. 
+Backout: Leave server in current configuration. 
+Contact(s): 
+Malcolm Wells 
+TELEPHONY: No Scheduled Outages 
+TERMINAL SERVER: 
+No Scheduled Outages. 
+UNIFY: 
+No Scheduled Outages. 
+FOR ASSISTANCE 
+(713) 853-1411 
+Enron Resolution Center 
+COME TDERT DAL. 
+Enron Gerp. 
+Case No. BC-POC2-91078 
+vec No. EBEC6732B 
+pater 
+C1f 8/7003 
+ERKON CORP. — PRODUCED PURSUANT TO EERO SUBPORNA. 
+SLBCEET TO PROTRODIVE CORGSR. CORE DIANTIAL TREATMERT RAQULEE Tacs. 
+ERBON-COS22 1974768
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-C01038 
+Doc No. EBFC6?T32B 
+Bate: G1/15/2003 
+ENRON CORE. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO EFROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+Specific Help: 
+Information Risk Management 
+(713) 853-5536 
+SAP/ISC 
+(713) 345-4727 
+Unify On-Call 
+(713) 284-3757 
+[Pager] 
+Sitara On-Call 
+(713) 288-0101 
+[Pager] 
+RUS/GOPS/GeoTcols/APRS 
+(713) 639-9726 
+[Pager] 
+OSS/UA4/TARP 
+(713) 285-3165 
+[Pager] 
+CPR 
+(713) 284-4175 
+[Pager] 
+EDI Support 
+(713) 327-3893 
+[Pager] 
+BES Help Desk 
+(713) 853-9797 OR (888) 853-9797 
+SOAR DDERT DAL 
+Enron Gerp. 
+Case No. Be 20C2-51095 
+Deo No. EBEC67321 
+Sater 
+Cle l5¢200% 
+EKRON SOKP. - PRODUCED PUNSUANT TO FERS SUBPORNA. 
+SLBCECT TC PROTROLDIVE ORGAR. CORE OCSANYTIAL TREATKERT ReOLE 
+ES Tsis. 
+EARON-CI4221 974768

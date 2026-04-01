@@ -1,0 +1,43 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6E416337
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Diamond, Daniel <daniel.diamond@enron.com>
+Sent:
+Wed, 30 Jan 2002 12:57:57 -0800 (PST)
+To:
+DL-NETCO Gas Traders <traders.dl-netco@enron.com>, DL-NETCO Power
+Traders <traders.dl-netco@enron.com>
+Cc:
+Forster, David <david.forster@enron.com>, Mandola, Teresa
+<teresa.mandola@enron.com>, Mcquade, Jennifer
+<jennifer.mcquade@enron.com>
+Subject:
+**IMPORTANT** Stack Manager Users
+We are in the process of confirming that all traders are set up correctly and
+ready to trade when the system goes live.
+We need to make sure that your Stack Managers are accessing the correct
+database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop
+and it actually appears that you have two Start buttons).
+or
+[REDACTED] B6
+[REDACTED] B6
+If you're not sure which one you have, please contact myself x39673, Teresa
+Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help
+you.
+Thank you,
+Dan Diamond
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E6E416337
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-475142023576

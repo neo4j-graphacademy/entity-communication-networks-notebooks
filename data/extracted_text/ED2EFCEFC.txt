@@ -1,0 +1,40 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED2EFCEFC
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Exchange System Administrator <exchange.administrator@enron.com>
+Sent:
+Sat, 20 Oct 2001 00:00:10 -0700 (PDT)
+To:
+Sanders, Richard B. <b..sanders@enron.com>
+Subject:
+WARNING:  Your mailbox is approaching the size limit
+This warning is sent automatically to inform you that your mailbox is
+approaching the maximum size limit.
+Your mailbox size is currently 87083 KB.
+Mailbox size limits:
+        When your mailbox reaches 75000 KB you will receive this message.To
+check the size of your mailbox:
+  Right-click the mailbox (Outlook Today),
+  Select Properties and click the Folder Size button.
+  This method can be used on individual folders as well.
+To make more space available, delete any items that are no longer needed such
+as Sent Items and Journal entries.
+You must empty the Deleted Items folder after deleting items or the space will
+not be freed.
+To turn Journaling off,
+ click Tools | Options | Journaling Options and de-select all items.
+See client Help for more information.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED2EFCEFC
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-155771549046

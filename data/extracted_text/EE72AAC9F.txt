@@ -1,0 +1,41 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE72AAC9F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+ARSystem <arsystem@mailman.enron.com> 
+Sent: 
+Thu, 31 May 2001 17:22:21 -0700 (PDT) 
+To: 
+Kaminski, Vince J <j.kaminski@enron.com> 
+Subject: 
+Approval is Overdue: Access Request for schiavone.paul@enron.com 
+This request has been pending approval for 
+6 days and you are the alternate. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?1ID=000000000037058&Page=Approval 
+to review and act upon this request. 
+Request ID 
+> 000000000037058 
+Approver 
+: stinson.gibner@enron.com 
+Request Create Date : 5/24/01 1:27:34 PM 
+Requested For 
+>: 
+schiavone.paul@enron.com 
+Resource Name 
+: \\enehou\houston\common\Research - [Read/Write] 
+Resource Type 
+: Directory 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE72AAC9F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-234587880683

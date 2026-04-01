@@ -1,0 +1,45 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE395A041
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+From:
+Greg Elliott <gelliott@industrialinfo.com>
+Sent:
+Tue, 18 Sep 2001 14:06:55 -0700 (PDT)
+To:
+Paul Copello <pcopello@industrialinfo.com>
+Subject:
+MAPP (Leland Olds), SERC (McMeekin), WSCC (Palo Verde, Huntington
+Canyon, Valley, Cabin Creek, & West Phoenix) Forced/Resched Outages
+Dear Power Outage Database Customer,
+Attached you will find an excel document. The outages contained within are
+forced or rescheduled outages. Your daily delivery will still contain
+these outages.
+In addition to the two excel documents, there is a dbf file that is formatted
+like your daily deliveries you receive nightly. This will enable
+you to load the data into your regular database. Any questions please let me
+know. Thanks.
+Greg Elliott
+IIR, Inc.
+713-783-5147 x 3481
+outages@industrialinfo.com
+THE INFORMATION CONTAINED IN THIS E-MAIL IS LEGALLY PRIVILEGED AND
+CONFIDENTIAL INFORMATION INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR
+ENTITY NAMED ABOVE.  YOU ARE HEREBY NOTIFIED THAT ANY DISSEMINATION,
+DISTRIBUTION, OR COPY OF THIS E-MAIL TO UNAUTHORIZED ENTITIES IS STRICTLY
+PROHIBITED. IF YOU HAVE RECEIVED THIS E-MAIL IN ERROR, PLEASE DELETE IT.
+ - 091801R.xls
+ - 091801.xls
+ - OUTAGE.dbf
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE395A041
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-048369925039

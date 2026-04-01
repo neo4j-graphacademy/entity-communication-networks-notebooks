@@ -1,0 +1,33 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EDC3E09EC
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+ARSystem <arsystem@mailman.enron.com>
+Sent:
+Thu, 16 Nov 2000 05:06:00 -0800 (PST)
+To:
+sally.beck@enron.com
+Subject:
+Request Submitted: Access Request for victoria.storey@enron.com
+You have received this email because you are listed as a security approver.
+Please click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000007589&Page=
+Approval to review and act upon this request.
+Request ID          : 000000000007589
+Request Create Date : 11/16/00 11:18:52 AM
+Requested For       : victoria.storey@enron.com
+Resource Name       : EOL US Backoffice  Stack Manager
+Resource Type       : Applications
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EDC3E09EC
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-368228839967

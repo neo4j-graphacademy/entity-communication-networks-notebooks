@@ -1,0 +1,65 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E3488A247
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+From:
+Fletcher J Sturm <fletcher.sturm@enron.com>
+Sent:
+Wed, 6 Sep 2000 23:57:00 -0700 (PDT)
+To:
+Brad McKay <brad.mckay@enron.com>
+Subject:
+Re: US Gas Ticker
+Brad,
+(see message below from Melba)
+Which one should we use, and how should it look on the website?  Remember,
+only five characters will fit in the name.  Maybe just CNGNo?
+Let me know and i'll forward to Melba.
+Fletch
+---------------------- Forwarded by Fletcher J Sturm/HOU/ECT on 09/07/2000
+06:54 AM ---------------------------
+From:  Melba Lozano
+  09/06/2000 05:42 PM
+To: Fletcher J Sturm/HOU/ECT@ECT
+cc: Dale Neuner/HOU/ECT@ECT
+Subject: Re: US Gas Ticker
+Fletch,
+US Gas Daily GD/D CNGAp-HHub - has two prices on Gas Daily .  North and South.
+How do you want to difirenciate one from the other? Please let me know.
+Thank you,
+Melba
+To: Melba Lozano/HOU/ECT@ECT
+cc:
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E3488A247
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-234282161028
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E3488A247
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+Subject: Re: US Gas Ticker
+these looks good to me except for the lower case "h" in the Hub phys that we
+already talked about.
+fletch
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E3488A247
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-234282161028

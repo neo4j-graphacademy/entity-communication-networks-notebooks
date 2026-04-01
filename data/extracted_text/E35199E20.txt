@@ -1,0 +1,42 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E35199E20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Richard B Sanders <richard.sanders@enron.com>
+Sent:
+Tue, 16 Jan 2001 02:29:00 -0800 (PST)
+To:
+Linda R Guinn <linda.guinn@enron.com>
+Subject:
+Approval is Overdue: Access Request for hugh.eichelman@enron.com
+----- Forwarded by Richard B Sanders/HOU/ECT on 01/16/2001 10:29 AM -----
+        ARSystem <ARSystem@mailman.enron.com>
+        01/15/2001 07:13 PM
+                 To: "richard.b.sanders@enron.com"
+<richard.b.sanders@enron.com>
+                 cc:
+                 Subject: Approval is Overdue: Access Request for
+hugh.eichelman@enron.com
+This request has been pending approval for  6 days and you are the
+alternate.  Please click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000012515&Page=
+Approval to review and act upon this request.
+Request ID          : 000000000012515
+Approver            : linda.r.guinn@enron.com
+Request Create Date : 1/8/01 8:12:00 AM
+Requested For       : hugh.eichelman@enron.com
+Resource Name       : Litigation Tracking Database Read
+Resource Type       : Applications
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E35199E20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-124139702203

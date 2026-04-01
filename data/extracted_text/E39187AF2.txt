@@ -1,0 +1,61 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-26002-016038 
+Doc No. ES9187AF2 
+Dane: O1/15/2003 
+ENRON CORE. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Mon, 23 Apr 2001 13:41:00 -0700 (PDT) 
+To: 
+pete.davis@enron.com 
+Ce: 
+bert.meyers@enron.com, bill.williams,.I1I@enron.com, 
+Craig.Dean@enron.com, dporter3@enron.com, Eric.Linder@enron.com, 
+Geir.Solberg@enron.com, jbryson@enron.com, leaf. harasin@enron.com, 
+monika.causholli@enron.com, mark.guzman@enron.com, 
+pete.davis@enron.com, ryan.slinger@enron.com, 
+steven.merris@enron.com 
+Subject: 
+Start Date: 4/23/01; HourAhead hour: 21; 
+<CODESITE> 
+Start Date: 4/23/01; HourAhead hour: 21; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in Generation schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001042321.txt 
+---- Generation Schedule ---- 
+$55 Variance found in table tb1lGEN_SCHEDULE. 
+Details: (Hour: 21 / Preferred: 
+4.90 / Final: 
+3.45) 
+TRANS_TYPE: FINAL 
+SC_ID: SierraPowe 
+MKT_TYPE: 2 
+TRANS 
+_ DATE: 4/23/01 
+UNIT_ID: VESTAL_6 WDFIRE 
+$$$ Variance found in table tblGEN_SCHEDULE. 
+Details: (Hour: 21 / Preferred: 
+0.00 / Final; 
+O.00) 
+TRANS_TYPE: FINAL 
+SC_ID: EES 
+MKT_TYPE: 2 
+TRANS_DATE: 4/23/01 
+UNIT_ID: BADLND_7_PL1X2 
+SOAR DDERT DAL 
+Enron Gerp. 
+Sase No. RC-PdC2-51078 
+Joo No. ESS TA7AR? 
+pater 
+C1f 8/7003 
+ERRON CORP. -— PRODUCED PURSUART TO SEC SUBPORMNA. 
+SLBCECT TC PROTROLDIVE ORGAR. CORE OCSANYTIAL TREATKERT ReOLE 
+ES Tsis. 
+EKRON- 196817765336

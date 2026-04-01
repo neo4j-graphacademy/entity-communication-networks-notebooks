@@ -1,0 +1,88 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E95DC90C1 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Parkhill, Kenneth <kenneth.parkhill@enron.com> 
+Sent: 
+Thu, 14 Jun 2001 05:24:18 -0700 (PDT) 
+To: 
+Griffith, John <john.griffith@enron.com> 
+Ce: 
+Issler, Paulo <paulo.issler@enron.com>, Lee, Bob <bob.lee@enron.com> 
+Subject: 
+RE: Option Trade 
+here's the file we spoke about 
+-—----Original Message----- 
+From: 
+Griffith, John 
+Sent: 
+Wednesday, June 13, 2001 2:10 PM 
+To: 
+Parkhill, Kenneth 
+Ce: 
+Issler, Paulo; Lee, Bob 
+Subject: 
+Option Trade 
+Kenneth, 
+Here is the trade I was looking at: 
+Dec'01 trading at $4.725 
+100 
+4.70 Calls 
+-300 
+5.50 Calls 
+200 
+5.90 Calls 
+-200 
+3.50 Puts 
+300 
+4.00 Puts 
+-100 
+4.70 Puts 
+Someone called a broker on the floor of the exchange to get a price on this 
+butterfly combination. First of all, can you tell me what this trade does for 
+you. 
+I looked at the payout and I don't understand what they were trying to 
+do. 
+Second, the price that the floor market makers gave him was $.10 bid at 
+$.14. 
+I price the deal at approximately $.07. 
+I know that the $.10 is too 
+high and the delta of the trade is about .07 (really small). 
+How can I use 
+your skew file to see the arbitrage? 
+I have attached the payout chart. 
+Thanks for your help. 
+Call if you have any questions. 
+Thanks. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E95DC930C1 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-397330881495
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E95DC90C1 
+Date: 01/15/2003 
+ENRON CORP. -— PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+John 
+<< File: Payout chart.xls >> 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E95DC930C1 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-397330881495

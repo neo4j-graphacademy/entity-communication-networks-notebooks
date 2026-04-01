@@ -1,0 +1,34 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E24CCE2F9 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Sun, 13 Jan 2002 20:56:28 -0800 (PST) 
+To: 
+Davis, Pete <pete.davis@enron.com> 
+Ce: 
+Meyers, Albert <albert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Solberg, Geir <geir.solberg@enron.com>, Anderson, John 
+<john.anderson@enron.com>, Guzman, Mark <mark.guzman@enron.com>, 
+Mier, Michael <michael.mier@enron.com>, Davis, Pete 
+<pete.davis@enron.com>, Slinger, Ryan <ryan.slinger@enron.com> 
+Subject: 
+Schedule Crawler: HourAhead Failure 
+Start Date: 1/13/02; HourAhead hour: 23; 
+HourAhead schedule download failed. 
+Manual intervention required. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E24CCE2F9 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-532960339974

@@ -1,0 +1,83 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2F6235B8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Lew, Jaesoo <jaesoo.lew@enron.com>
+Sent:
+Tue, 4 Dec 2001 12:38:40 -0800 (PST)
+To:
+Kaminski, [REDACTED] B6
+Subject:
+RE: Summary of meeting
+Vince,
+I took the curve shift P&L from the RMS database and prompt month volatility
+for both GAS and POWER for the period of Aug-2000 to Aug-2001.
+In case POWER, volatility has relationship with VAR but less likely with P&L.
+For GAS volatility, the correlation with VAR is weaker than the case of POWER
+and also low relationship with P&L.
+Thanks.
+Jaesoo
+ -----Original Message-----
+From:   Kaminski, Vince J
+Sent:   Tuesday, December 04, 2001 10:40 AM
+To:     Shanbhogue, Vasant; Bharati, Rakesh; Tamarchenko, Tanya; Raymond,
+Maureen; Lew, Jaesoo
+Subject:        FW: Summary of meeting
+ -----Original Message-----
+From:   Desai, Jayshree
+[REDACTED] B6
+Cc:     Wadlington, Mark
+Subject:        Summary of meeting
+Hello Vince,
+I thought that I would take the liberty to summarize our request after our
+meeting this morning:
+Volatilities per commodity
+Electricity
+Natural Gas
+Crude Oil (strip proxy?)
+Aluminum (strip proxy?)
+[REDACTED] B5
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2F6235B8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-037669728139
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2F6235B8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+Equities (S&P 500 as a proxy?)
+Currencies ($, yen or DM as a proxy)
+Cross correlation matrix for each commodity with every other commodity
+Correlation of power and gas volatility to Enron's trading earnings
+Comparable analysis of Enron ROVAR to other trading organizations (e.g. banks,
+hedge funds, etc..)
+Analysis of amount of economic capital versus cash in order to support a
+certain VAR
+If there is anything that we can do in order to help with the request, please
+let me know.  Again thank you very much for all of your help.
+Regards,
+Jayshree Desai
+x3-3290
+ps   Mark and I enjoyed the opportunity to pick your brains.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E2F6235B8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-037669728139

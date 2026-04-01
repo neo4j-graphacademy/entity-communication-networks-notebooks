@@ -1,0 +1,95 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF5623280
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Richard Lewis <richard.lewis@enron.com>
+Sent:
+Sun, 10 Dec 2000 01:14:00 -0800 (PST)
+To:
+Greg Whalley <greg.whalley@enron.com>
+Subject:
+RE: UK P/L
+"Structured Derivatives" holds the spread options from the Eastern VPS
+deals.  We hedge with swaps to the power and gas books, leaving all our gamma
+and vega exposure.  The $43mm is a big gamma loss because of the moving power
+curve and a big vega loss because of the moving gas volatility curve.
+I am looking to change the loss violation reporting so we report power and
+gas numbers including any movements in the spread option book.  Ted Murphy
+agrees.
+Richard
+Greg Whalley
+08/12/2000 20:33
+To: Richard Lewis/LON/ECT@ECT
+cc:
+Subject: RE: UK P/L
+What is the structured derivatives portfolio and what is in it?
+----Original Message-----
+   >From:      Richard Lewis/LON/ECT
+   >To:          Greg Whalley/HOU/ECT@ECT
+   >Cc:          John Sherriff/LON/ECT@ECT
+   >Bcc:
+   >Subj:      UK P/L
+   >Sent:     Thursday, December 07, 2000 6:23 AM
+   >
+   >Greg,
+   >See note below for detail but here is the exec summary.
+   >
+   >We had a couple of big shifts on the curves yesterday which I want you to
+be aware of.  We wanted to put several major adjustments through on the same
+day.  The main moves are as follows:
+   >
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF5623280
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-196136989132
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF5623280
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+   >Increased gas volatility - we moved the curve up significantly for the
+first several years. Lose o16mm
+   >Power Peaks down, off-peaks up across the whole curve.    Gain o10mm
+   >
+   >Because "structured Derivatives" is a separate line item, this book loses
+$43mm today, with power making approx $40mm to off-set.  The $43mm may need
+to be reported to Skilling, even though the real loss is just the gas loss of
+o16mm.
+   >
+   >(There were several other clear up items put through, but the above
+represents the main issues to be aware of.  Net on the day we are up, and
+still expect to hit Q4 targets.).
+   >
+   >Regards
+   >
+   >Richard
+   >---------------------- Forwarded by Richard Lewis/LON/ECT on 07/12/2000
+11:49 ---------------------------
+   >
+   >
+   >James New
+   >06/12/2000 18:18
+   >To: John S
+   >
+   ><truncated...>
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EF5623280
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-196136989132

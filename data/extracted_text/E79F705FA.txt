@@ -1,0 +1,52 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E79F705FA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Schedule Crawler <pete.davis@enron.com>
+Sent:
+Fri, 9 Mar 2001 21:39:00 -0800 (PST)
+To:
+pete.davis@enron.com
+Cc:
+bert.meyers@enron.com, bill.williams.III@enron.com,
+dporter3@enron.com, Geir.Solberg@enron.com, Greg.Wolfe@enron.com,
+holden.salisbury@enron.com, jbryson@enron.com,
+leaf.harasin@enron.com, monika.causholli@enron.com,
+mark.guzman@enron.com, pete.davis@enron.com, ryan.slinger@enron.com
+Subject:
+Schedule Crawler: HourAhead Failure <CODESITE>
+Start Date: 3/10/01; HourAhead hour: 6;  HourAhead schedule download failed.
+Manual intervention required.
+    LOG MESSAGES:
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final
+Schedules\2001031006.txt
+!!!General SQL error.
+Couldn't update; currently locked by user 'admin' on machine 'ECTHOU-BPS4'.
+Table
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+!!!A user transaction is already in progress.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E79F705FA
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-532897575421

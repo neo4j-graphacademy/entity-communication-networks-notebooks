@@ -1,0 +1,72 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED14C39EE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Richard Elwood <richard.elwood@enron.com>
+Sent:
+Wed, 30 Aug 2000 03:31:00 -0700 (PDT)
+To:
+Carey Mansfield <carey.mansfield@enron.com>, Lana Yu
+<lana.yu@enron.com>
+Cc:
+Samuel Schott <samuel.schott@enron.com>, Debbie R Brackett
+<debbie.brackett@enron.com>, Judy Rose <judy.rose@enron.com>,
+Vanessa Schulte <vanessa.schulte@enron.com>, David Baumbach
+<david.baumbach@enron.com>, Daren J Farmer <daren.farmer@enron.com>,
+Dave Nommensen <dave.nommensen@enron.com>, Donna Greif
+<donna.greif@enron.com>, Shawna Johnson <shawna.johnson@enron.com>,
+Russ Severson <russ.severson@enron.com>, Scott Mills
+<scott.mills@enron.com>, Judy Rose <judy.rose@enron.com> ...
+Subject:
+DONE: New Sitara Desk Request (Ref CC#20000813)
+Carey,
+Per Scott's request below the following business unit (aka: desk id,
+portfolio) was added to Global production and Unify development, test,
+production and stage.   Please copy to the other Global environments.
+Thanks,
+Dick, x3-1489
+Updated in Global production environment GCC Code Desc:
+P ENT SUBENTI DATA_CD    AP DATA_DESC               CODE_ID
+- --- ------- ---------- -- -------------------- ----------
+A SIT DESKID  IMCL       A  ENA - IM Cleburne          9273
+        From:  Scott Mills                           08/30/2000 08:27 AM
+To: Samuel Schott/HOU/ECT@ECT, Richard Elwood/HOU/ECT@ECT, Debbie R
+Brackett/HOU/ECT@ECT, Judy Rose/HOU/ECT@ECT, Vanessa
+Schulte/Corp/Enron@Enron, David Baumbach/HOU/ECT@ECT, Daren J
+Farmer/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT,
+Shawna Johnson/Corp/Enron@ENRON, Russ Severson/HOU/ECT@ECT
+cc:
+Subject: New Sitara Desk Request
+This needs to be available in production by early afternoon.  Sorry for the
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED14C39EE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-251262282686
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED14C39EE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+short notice.
+SRM (x33548)
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED14C39EE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-251262282686

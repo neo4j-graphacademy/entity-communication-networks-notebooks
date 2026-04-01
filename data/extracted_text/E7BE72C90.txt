@@ -1,0 +1,34 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7BE72C90
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Jinsung Myung <jinsung.myung@enron.com>
+Sent:
+Thu, 9 Mar 2000 09:07:00 -0800 (PST)
+To:
+Donald M- ECT Origination Black <donald.black@enron.com>
+Cc:
+Benjamin Rogers <benjamin.rogers@enron.com>
+Subject:
+Additional sensitivity on Retail short
+Don,
+Currently, our model assumes total project cost of $558/kW (EPC: $509/kW with
+turbine cost of $303/kW, Soft cost: $45/kW, Financing cost: $5/kW) . I think
+$558/kW may be too conservative (compare to what I have been hearing), so I
+ran some sensitivities on project cost as follows. The result is not
+negligible. See you tomorrow.
+Regards,
+Jinsung
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E7BE72C90
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-117820267280

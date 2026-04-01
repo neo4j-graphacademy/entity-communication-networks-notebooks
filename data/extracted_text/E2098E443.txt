@@ -1,0 +1,78 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2098E443 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Ring, Richard <richard.ring@enron.com> 
+Sent: 
+Mon, 22 Oct 2001 08:10:34 -0700 (PDT) 
+To: 
+Padron, Juan <juan.padron@enron.com> 
+Subject: 
+FW: NYISO - Software Release - November 1, 2001 
+-—----Original Message----- 
+From: 
+owner-nyiso_tech_exchange@lists.thebiz.net@EES 
+On Behalf Of 
+market_relations@nyiso.com 
+Sent: 
+Friday, October 19, 2001 4:41 PM 
+To: 
+market_relations@nyiso.com 
+Subject: 
+NYISO - Software Release - November 1, 2001 
+market_relations@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List: 
+Dear Market Participants, 
+The following software update will become active on November 1, 2001 
+Customers who have completed the Virtual Bidding registration process 
+and have met all requirements will be able to begin submitting virtual 
+Transactions in the NYISO Day Ahead Market (DAM). 
+A Virtual Transaction 
+bid, if accepted, is the financial committment to buy(sell) energy 
+at the DAM zonal LBMP price and sell(buy) it at the Real-Time Zonal LBMP 
+price. No phyiscal delivery or consuming of energy will occur. 
+This program has been developed at the request of Market Participants. 
+It 
+will provide an additional hedging mechanism for customers with physical 
+loads and generation. 
+It will also open the NY wholesale electric market 
+to more participants. 
+For additional information, please see Technical Bulletin #74 at: 
+http: //www.nyiso.com/services/documents/techbulletins/index.html 
+For registration information please go to: 
+http://www.nyiso.com/services/relations/cregistration/index.html 
+NOTE: 
+Activation of Virtual Bidding is pending FERC approval. 
+If you have any questions, please call your Customer Relations 
+representatve or the Help Desk at 518-356-6060. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2098E443 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-274861634103
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2098E443 
+Date: 01/15/2003 
+ENRON CORP. —- PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+Regards, 
+Customer Relations 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2098E443 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-274861634103

@@ -1,0 +1,58 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE0CC6D20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Chang, Fran <fran.chang@enron.com>
+Sent:
+Fri, 10 Aug 2001 11:33:27 -0700 (PDT)
+To:
+Badeer, Robert <robert.badeer@enron.com>, Motley, Matt
+<matt.motley@enron.com>, Driscoll, Michael M.
+<m..driscoll@enron.com>, Fischer, Mark <mark.fischer@enron.com>,
+Alonso, Tom <tom.alonso@enron.com>, Salisbury, Holden
+<holden.salisbury@enron.com>, Mallory, Chris
+<chris.mallory@enron.com>, Crandall, Sean <sean.crandall@enron.com>,
+Scholtes, Diana <diana.scholtes@enron.com>
+Subject:
+FW: UPDATE!!! curve manager problems today
+fyi
+ -----Original Message-----
+From:   Chang, Fran
+Sent:   Friday, August 10, 2001 11:30 AM
+To:     Postlethwaite, John; Dunton, Heather; Law, Samantha; Warner, Nicholas
+Cc:     Balasundaram, Arun; Lee, Norman; Gupta, Sanjay; Yang, Zhiyun; Meira,
+Marcelo
+Subject:        UPDATE!!! curve manager problems today
+Arun in IT confirmed that the prior day curves are showing up correctly in the
+database, though they are showing up incorrectly on the front end curve
+manager.  He said it will take some time to fix the front end problems, and he
+expects the fix to be done by Monday.  He said since prior day prices are
+correct in the database, it should not mess up our calcs.  So as long as our
+traders make sure current day's prices are posted as they wanted, we will be
+fine.
+Fran
+ -----Original Message-----
+From:   Chang, Fran
+Sent:   Friday, August 10, 2001 10:57 AM
+To:     Dunton, Heather; Law, Samantha; Warner, Nicholas
+Cc:     Postlethwaite, John
+Subject:        curve manager problems today
+Somehow today in the curve manager, prior day's prices column is not showing
+the prices as of yesterday, but showing prices based on today's price changes
+by the trader.  Driscoll first found out about it, and Arun is working on
+fixing the prior price now.  I'll let you know when he confirmed the problem
+is fixed.
+Fran
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE0CC6D20
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-554556486448

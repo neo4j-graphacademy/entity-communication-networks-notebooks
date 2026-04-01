@@ -1,0 +1,162 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Jeff Dasovich <jeff.dasovich@enron.com> 
+Sent: 
+Fri, 9 Feb 2001 02:46:00 -0800 (PST) 
+To: 
+Karen Denne <karen.denne@enron.com> 
+Subject: 
+Re: eCompany Now Brief 
+My techie pals showed me the feature on Enron in the most recent version of 
+eCompany. 
+What a great feature. 
+Congratulations. 
+Best, 
+Jeff 
+Karen Denne 
+02/09/2001 09:12 AM 
+To: Jeff Dasovich/NA/Enron@Enron 
+ce: 
+Subject: eCompany Now Brief 
+This is in today's online "Future Boy" column in eCompany Now -- we had a 
+great meeting with them on Wednesday! 
+Future Boy 
+Bringing Opto-Electronics Out of the Stone Age 
+By Erick Schonfeld at http://www.ecompany.com 
+Optical networks. It sounds so cutting edge. Billions of bits of 
+data riding on beams of light. The most important, most urgent, 
+information in the world encapsulated within photonic pulses. Yet 
+the components that go into optical gear are often still assembled 
+by hand. Go into a factory where optical equipment is made and 
+you'll find acres of work benches manned by technicians in white 
+lab coats. There is not even an assembly line. It's labor-intensive 
+and practically preindustrial. 
+If optical networks, and ultimately optical computing, are ever 
+going to rival their electronic predecessors, the companies that 
+manufacture the components that make them possible must first 
+master the art of mass production. As simple as this may sound, it 
+is in fact extremely challenging. Photonic components -- such as 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-397595909777
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+laser pump diodes, specialty fibers, and optical chips with 
+so-called waveguides that direct light through controlled channels 
+-- are typically made from materials that are not well understood, 
+in contrast to the silicon-based chips used in computers, routers, 
+and switches. "Every industry has to go through an evolution of 
+materials knowledge and an experience curve that just takes time," 
+explains Rick Tompane, CEO of Gemfire, a startup that is figuring 
+out how to make optical-integrated circuits using standard 
+semiconductor equipment. 
+There's a big difference between making components that are 
+designed to move electrons, and manufacturing components that move 
+pulses of light. An electronic chip, for instance, consists of 
+circuits of metal etched onto silicon. In contrast, an optical chip 
+is usually made from more exotic materials, such as lithium 
+niobate. And instead of metal circuits, it has channels, or 
+waveguides, that guide light passing through it to a desired strand 
+of optical fiber. Rather than etched grooves, these tiny channels 
+are solid veins with a different refractive index than the 
+surrounding material. Learning how to adapt electronic chip-making 
+techniques to produce waveguides and other components in mass 
+quantities has been difficult -- and yet optical-networking 
+companies have to figure this out, if only because the current 
+system is so arduous and antiquated. Many pieces of optical 
+equipment require dozens of laser diodes, which often have to be 
+manually connected to other components. For instance, dense wave 
+division multiplexing (DWDM) boxes, which allow telecom companies 
+to send 32, 40, or even 96 wavelengths of light down a single 
+fiber-optic strand, require different laser diodes that each emit 
+light at slightly different wavelengths. If each of these diodes is 
+inserted by hand, too many opportunities exist for things to go 
+wrong. 
+But companies such as Gemfire and U.K.-based Southampton Photonics 
+are beginning to automate the manufacture of key optical 
+components. Gemfire has figured out a way to combine diode arrays 
+and waveguides into optical integrated circuits that can be 
+produced using automated equipment. Theoretically, these circuits 
+could be used in DWDM boxes, eliminating the need to have 40 
+separate laser diodes and to connect each one by hand to a 
+waveguide chip. For now, Gemfire is trying to get these chips into 
+the optical amplifiers that regenerate fading light signals after 
+they've traveled long distances. Gemfire has developed a diode 
+array integrated with eight waveguides that would replace eight 
+separate amplifiers, and thus could amplify eight separate strands 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-397595909777
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+of fiber. Over time, Gemfire will combine even more elements into 
+its optical integrated circuits, including traditional electronic 
+circuitry, so that conversion from the optical to the electrical 
+domain can happen right on the chip. It is this approach that has 
+allowed the private company to attract heavyweight investors such 
+as Cisco Systems, Corning, Intel, and Kleiner Perkins. Floyd 
+Kvamme, a partner from Kleiner who sits on Gemfire's board, was one 
+of the founders of National Semiconductor. "So much of what we are 
+doing reminds him of what they did in the early days of National 
+Semiconductor," says Tompane. 
+Southampton Photonics offers a similar amplifier product. It, too, 
+has invented an amplifier that can handle eight separate strands, 
+except that its shares diodes between them. But Southampton is also 
+branching out into some more daring pursuits -- as one might expect 
+from a company co-founded by David Payne, who 15 years ago led the 
+team that invented the erbium-doped fiber amplifier, the basis of 
+most of today's optical amplifiers. Payne is now looking into other 
+ways to control and manipulate light. One of the more intriguing 
+solutions is a specialty fiber, known as a Bragg grating, that acts 
+as a filter because its index of refraction changes along its 
+length. Working with these fibers, equipment-makers might no longer 
+have to build DWDM boxes with 40 specialty diodes. Instead, they 
+could simply stock a box with a product from Southampton that 
+combines standard, off-the-shelf diodes with these Bragg gratings, 
+which are stuck in front of the diodes to get whatever wavelengths 
+may be desired. Southampton Photonics makes these fiber filters 
+through an automated, computer-controlled process that can create 
+custom filters for clients in a matter of days rather than weeks. 
+And the process is so fine-tuned that it will allow DWDM 
+manufacturers to reduce the separation between the wavelengths 
+going down a single fiber to 25 GHz, as opposed to the 50 to 100 
+GHz intervals that are considered state-of-the-art today. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3423329F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-397595909777

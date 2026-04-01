@@ -1,0 +1,38 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED7DA6C41
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Eugenio Perez <eugenio.perez@enron.com>
+Sent:
+Thu, 15 Jun 2000 07:50:00 -0700 (PDT)
+To:
+Adriane Moratto <adriane.moratto@enron.com>, Amita Gosalia
+<amita.gosalia@enron.com>, Andrea Hauser <andrea.hauser@enron.com>,
+Bob Shults <bob.shults@enron.com>, Daniel Diamond
+<daniel.diamond@enron.com>, David Forster <david.forster@enron.com>,
+Don Cornwell <don.cornwell@enron.com>, Harry Bucalo
+<harry.bucalo@enron.com>, Lara Fields <lara.fields@enron.com>, Lisa
+Gillette <lisa.gillette@enron.com>, Lisa Lees <lisa.lees@enron.com>,
+Louise Kitchen <louise.kitchen@enron.com> ...
+Subject:
+New version of the EOL View Database
+This new version of the database will run 30% to 70% faster (depending on
+your computer).
+Please delete any shortcuts to the database that you may have on your desktop
+and then launch this attachment (it will automatically install the new
+version).
+Regards,
+Eugenio
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED7DA6C41
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-236413707761

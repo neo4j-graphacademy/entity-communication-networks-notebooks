@@ -1,0 +1,113 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+E8B59240E
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+RELEASE
+IN
+PART
+From:
+System Administrator <postmaster@kleberg.com>
+Sent:
+Tue,
+20 Mar 2001
+09:09:00
+-0800
+(PST)
+To:
+Tana.Jones@enron.com <tana.jones@enron.com>
+Subject:
+Delivered:
+BETA - Amerex
+<<BETA
+- Amerex>>
+Your message
+To:
+stevet@amerexenergy.com;
+jwelder@kleberg.com
+Ce:
+Bob.Shults@enron.com;
+Mark.Greenberg@enron.com
+Subject:
+BETA - Amerex
+Sent:
+Tue,
+20 Mar 2001
+17:11:09
+-0600
+was delivered to the following recipient (s):
+[REDACTED]
+B6
+Message-ID:
+<OFA1LE8BB75.1E452EAF-ON86256A15.007F0B15@enron.com>
+From:
+Tana.Jones@enron.com
+To:
+stevet@amerexenergy.com,
+jwelder@kleberg.com
+Ce:
+Bob.Shults@enron.com,
+Mark.Greenberg@enron.com
+Subject:
+BETA - Amerex
+Date:
+Tue,
+20 Mar 2001
+17:11:09
+-0600
+Return-Receipt-To:
+Tana.Jones@enron.com
+MIME-Version:
+1.0
+X-Mailer:
+Internet Mail
+Service
+(5.5.2650.21)
+X-MS-Embedded-Report:
+Content-Type:
+text/plain;
+charset="iso-8859-1"
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+E8B59240E
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-609610426254

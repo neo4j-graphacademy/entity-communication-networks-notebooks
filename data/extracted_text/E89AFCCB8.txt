@@ -1,0 +1,80 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E89AFCCB8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Chris Walker <chris.walker@enron.com>
+Sent:
+Thu, 22 Mar 2001 09:32:00 -0800 (PST)
+To:
+Jeff Blumenthal <jeff.blumenthal@enron.com>, Susan Musch
+<susan.musch@enron.com>, Bjorn Hagelmann
+<bjorn.hagelmann@enron.com>, Mark Taylor <mark.taylor@enron.com>,
+Harry M Collins <harry.collins@enron.com>, Tom Moran
+<tom.moran@enron.com>, Shari Mao <shari.mao@enron.com>, Charlie
+Hoang <charlie.hoang@enron.com>, Laurie Lee <laurie.lee@enron.com>
+Cc:
+Lisa Lees <lisa.lees@enron.com>, Stephanie Sever
+<stephanie.sever@enron.com>, Tana Jones <tana.jones@enron.com>,
+Karen Lambert <karen.lambert@enron.com>, Kelly Lombardi
+<kelly.lombardi@enron.com>, Tara Sweitzer <tara.sweitzer@enron.com>,
+Dawn C Kenne <dawn.kenne@enron.com>, Torrey Moorer
+<torrey.moorer@enron.com>, Robert B Cass <robert.cass@enron.com>,
+Kevin Meredith <kevin.meredith@enron.com>, Melba Lozano
+<melba.lozano@enron.com>
+Subject:
+EOL PRODUCT TYPE APPROVAL for 7 PHY product types (Clickpaper to EOL
+migration)
+Please approve the following 7 product types in Datamanager at your earliest
+convenience.  The product type descriptions and GTC are attached.
+US East SPF Lumber Phy
+US Newsprint Phy
+US OSB Phy
+US Recycled OCC #11 Phy
+US SYP Lumber Phy
+US West SPF Lumber Phy
+US Recycled ONP #8 Phy   changed since last email
+STEPS FOR APPROVAL:
+click the  START button
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD
+click the Enron Online Production Cluster "START" button
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E89AFCCB8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-077213288055
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E89AFCCB8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up
+TO APPROVE:  Right mouse click on "Approved"
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E89AFCCB8
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-077213288055

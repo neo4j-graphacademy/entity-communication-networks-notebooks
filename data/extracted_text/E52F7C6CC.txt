@@ -1,0 +1,62 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E52F7C6CC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+CRCommunications <crcommunications@caiso.com> 
+Sent: 
+Thu, 4 Oct 2001 10:45:16 -0700 (PDT) 
+To: 
+SC Settlements Contacts <scsettlecontacts@caiso.com> 
+Subject: 
+CAISO Notification: Discretionary Load Curtailment Program 
+Settlement Charge Types 
+SC Settlement Contacts: 
+This notification serves to describe the California ISO charge types 
+associated with the Discretionary Load Curtailment Program (DLCP). 
+The DLCP 
+was designed to provide an additional level of demand reduction on the ISO 
+system before the ISO entered into Emergency conditions. 
+DLCP Load 
+participants agree to voluntarily interrupt Load at ISO request in 
+accordance with DLCP contracts and ISO operating procedures. 
+The program 
+was implemented as a result of forecasted periods of high-energy usage 
+during summer 2001. 
+The program was implemented once, on July 3, 2001. 
+The 
+charges associated with DLCP will be included on the July 31, 2001 
+Settlement Statement. 
+Charge Type 3473 
+Description: DLCP Energy Payment. 
+Settlement Amount: The product of billable quantity and 
+price 
+Billable Quantity: 
+Performance measurement submitted to the 
+ISO based on the DLCP Participant's approved Measurement Plan. 
+Price = 
+$350 per MWh. 
+Charge Type 3483 
+Description: DLCP Energy Charge. 
+Settlement Amount : 
+(SC's total Monthly Load and Exports / 
+Total Monthly Load and Exports) x Total Monthly payment for Discretionary 
+Load Curtailment Program. 
+Billable Quantity: 
+Sum of monthly Load and Exports. 
+Price: 
+Settlement Amount / Billable Quantity. 
+Load and Exports will be assessed on a Control Area basis and will not 
+include Non-PTO load served under an Existing Contract. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E52F7C6CC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-1006945296089

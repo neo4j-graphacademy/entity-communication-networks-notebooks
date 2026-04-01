@@ -1,0 +1,155 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+exchangeinfo@nymex.com <exchangeinfo@nymex.com>
+Sent:
+Thu, 19 Apr 2001 03:43:00 -0700 (PDT)
+To:
+tana.jones@enron.com <tana.jones@enron.com>
+Subject:
+(01-136) Copper and Aluminum Options Expiration Operational
+Procedures
+Notice No. 01-136
+April 19, 2001
+TO:
+All COMEX Division Members/Member Firms
+All COMEX Division Clearing Members
+All COMEX Division Floor Traders
+All COMEX Division Operations Managers
+FROM:
+Michael Campanelli, Vice President
+Floor Operations / COMEX Division
+RE:
+Options Expiration Operational Procedures for the Trading Floor and Clearing
+Members
+______________________________________________________________________________
+The expiration date for the May 2001 options contract for Copper (HXK1) and
+Aluminum (OAK1) is Wednesday, April 25, 2001.
+ GENERAL OPERATIONAL PROCEDURES
+All Clearing Members and Qualified Floor Traders that carried an options
+position as of the close of business day prior to the expiration day, or
+engaged in trading activity on Expiration Day in the expiring options
+contract will be required to have a knowledgeable, duly authorized on-line
+trade entry (I&OLTEI8) system trained representative available until released
+by the Exchange staff.  All adjustments  and/or corrections, must be
+accompanied by relevant supporting documentation prior to being incorporated
+into expiration processing, in essence making the expiration processing an
+extension of the afternoon trade resolution procedures.
+Exchange Clearing (299-2110) and Trade Processing (299-2465 and 299-2044)
+personnel will be available to assist with the processing of notices of
+Exercise and Abandonment, position transfers, trade corrections and other
+questions or problems you may have.
+Failure by any Clearing Member or qualified Floor Trader to comply with
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-044239803117
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+procedures as outlined herein may result in severe disciplinary action by the
+Exchange and potential financial liability to customers or members for
+failure to exercise diligence in the processing of information.
+ TRADING FLOOR OPERATIONAL PROCEDURES
+Trading in the May 2001 Copper and Aluminum Options Contracts will cease at
+2:00 P.M. and 2:10 P.M. respectively on April 25, 2001.  All Brokers and
+Traders must inform their Clearing Members of their intentions to exercise or
+abandon such Options by 4:00 P.M.
+On Wednesday, April 25, 2001, all Brokers and Clearing Members must have a
+duly authorized, On-Line Trade Entry (I&OLTEI8) system trained representative
+available until such time as the Exchange deems necessary.
+NOTE: After 4:30 P.M. all expiring option trade data must be inputted on
+special I&OLTEI8 terminals located in the Trade Processing Room.  Any other
+means of submission will be rejected by the Exchange.  Members will be able
+to submit all other trade data until 5:00 P.M.
+After the Unmatched Trade Reports and the Preliminary Spot Month Matched
+Trade Reports are displayed, Clearing Member representatives will be able to
+pick up their Preliminary Clearing reports at the Clearing Department.
+A final review of all submissions will be made.  The Supervisor of the Trade
+Processing Room will detain only those Clearing Members and/or Broker
+representatives involved.  All final corrections will be made at this time
+and upon determination of the Supervisor that all option processing is
+complete, all representatives will be released.
+Exchange Reports based on WednesdayI,s submissions and processing will be
+available on Thursday morning April 26, 2001.
+In the event that you have any questions regarding these trading floor
+procedures please contact Michael Campanelli at (212) 299-2072 or David
+Sherman at (212) 299-2061.
+CLEARING DEPARTMENT OPERATIONAL PROCEDURES
+1. OPEN POSITION CONFIRMATION (I&OPCI8) - The OPC should reflect as accurately
+as possible all futures and options gross positions as of close-of business
+on the business day prior to expiration.  Review the estimated current gross
+positions as shown and make appropriate adjustments.  The OPC must be
+submitted not later than 9:00 A.M.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-044239803117
+
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+2.   OPTIONS EXERCISE/ABANDONMENT REQUESTS FORM (I&E/AI8) - An expiring option
+with a strike price in-the-money by one tick or more will be subject to
+automatic exercise unless an Option Abandonment Request form is submitted
+advising that a Clearing Member (I&CMI8) elects to abandon some or all of its
+position in that strike price (i.e., for the option series).  All other
+options series in the expiring month will be subject to automatic abandonment
+unless an Option Exercise Request form is submitted.  When submitting an E/A
+form, please note the following:
+(a) An E/A form must be submitted not later than 5:00 PM.
+(b) Do not submit an Exercise form for positions in strike prices which are
+subject to automatic
+Exercise nor submit an Abandonment form for positions in strike prices which
+are subject to automatic abandonment.
+(c) If a CM wishes to submit an E/A form to abandon a position in a strike
+price subject to automatic exercise or wishes to exercise a position in a
+strike price which is out of the money, it is necessary to notify Clearing by
+telephone of such anticipated action.  The CM must have an officer available
+to confirm such intention.
+(d) CMs may secure from Clearing a time-stamped receipt of the CM copy to
+assure submission  of the CMI,s E/A forms.
+3. OPTION POSITION REDUCTION REQUEST FORM (I&OPRRI8) - As a general rule,
+purchases and sales of option contracts are presumed to be new business.   If
+some or all of your purchases and sales are in fact undertaken for position
+liquidation purposes, OPRR forms may be submitted on the day of expiration
+and will be used in conjunction with trade data to reduce your projected
+position in an expiring contract.  OPRR requests in excess of actual traded
+volume will be rejected.  Exception: Cabinet trades and cancel correction
+trades will automatically liquidate existing positions, therefore do not
+submit an OPRR form for cabinet or cancel correction trades.
+The OPRR form must be submitted not later than 5:00 PM.
+4. HOUSE/CUSTOMER POSITION TRANSFER REQUEST FORM (I&H/CI8) - H/C forms may be
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EC57E95BE
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-044239803117

@@ -1,0 +1,52 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EFDA42984
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Diamond, Daniel <daniel.diamond@enron.com>
+Sent:
+Fri, 1 Feb 2002 08:40:37 -0800 (PST)
+To:
+Allen, Phillip K. <k..allen@enron.com>, Belden, Tim
+<tim.belden@enron.com>, Benson, Robert <robert.benson@enron.com>,
+Bishop, Serena <serena.bishop@enron.com>, Brawner, Sandra F.
+<f..brawner@enron.com>, Brodeur, Stephane
+<stephane.brodeur@enron.com>, Coffing, Timothy
+<timothy.coffing@enron.com>, Crandall, Sean
+<sean.crandall@enron.com>, Dorland, Chris <chris.dorland@enron.com>,
+Ermis, Frank <frank.ermis@enron.com>, Fischer, Mark
+<mark.fischer@enron.com>, Gay, Randall L. <l..gay@enron.com> ...
+Subject:
+Waiting on your reply -Stack Users
+If you're receiving this email its because we're still waiting on a response
+from you.  Please reply to this message ASAP.  See below for details.
+Thanks,
+Dan
+We are in the process of confirming that all traders are set up correctly and
+ready to trade when the system goes live.
+We need to make sure that your Stack Managers are accessing the correct
+database. In order to do this, we need to know how you access Stack Manager:
+1) Through Terminal Server (the one that opens up a desktop within a desktop
+and it actually appears that you have two Start buttons).
+or
+2) By opening the Stack Manager directly from your "native" desktop (stand
+alone computer).
+Please reply to this message with either a corresponding "1" or a "2" in the
+subject field.
+If you're not sure which one you have, please contact myself x39673, Teresa
+Mandola x39807 or Jennifer McQuade x53614 and we'll come by your desk to help
+you.
+Thank you,
+Dan Diamond
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EFDA42984
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-731378222711

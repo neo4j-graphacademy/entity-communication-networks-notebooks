@@ -1,0 +1,49 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3E1E6A04 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Thu, 19 Apr 2001 22:42:00 -0700 (PDT) 
+To: 
+pete.davis@enron.com 
+Ce: 
+bert.meyers@enron.com, bill.williams.III@enron.com, 
+Craig.Dean@enron.com, dporter3@enron.com, Eric.Linder@enron.com, 
+Geir.Solberg@enron.com, jbryson@enron.com, leaf.harasin@enron.com, 
+monika.causholli@enron.com, mark.guzman@enron.com, 
+pete.davis@enron.com, ryan.slinger@enron.com, 
+steven.merris@enron.com 
+Subject: 
+Start Date: 4/20/01; HourAhead hour: 6; 
+<CODESITE> 
+Start Date: 4/20/01; HourAhead hour: 6; 
+No ancillary schedules awarded. 
+Variances detected. 
+Variances detected in Load schedule. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2001042006.txt 
+---- Load Schedule ---- 
+$$$ Variance found in table tblLoads. 
+Details: (Hour: 6 / Preferred: 
+44.21 / Final: 
+44.18) 
+TRANS_TYPE: FINAL 
+LOAD_ID: PGE3 
+MKT_TYPE: 2 
+TRANS_DATE: 4/20/01 
+SC_ID: EPMI 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3E1E6A04 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-223753662337

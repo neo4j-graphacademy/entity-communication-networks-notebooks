@@ -1,0 +1,94 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+E5F633CC0
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+RELEASE
+IN
+FULL
+From:
+Bayer,
+Adam <adam.bayer@enron.com>
+Sent:
+Mon,
+10
+Sep 2001
+09:26:15
+-0700
+(PDT)
+To:
+Mckay,
+Brad <brad.mckay@enron.com>,
+Mckay,
+Jonathan
+<jonathan.mckay@enron.com>,
+Pimenov,
+Vladi <vladi.pimenov@enron.com>
+Subject:
+Tetco Graphs
+Here
+is the spreadsheet with Flow data versus ELA to Henry Hub Spreads,
+or
+Mkt-3 vs.
+Henry Hub Spreads.
+Points:
+Venice -->
+ELA to Henry Hub Spreads
+St.
+Francesville
+--> ELA to Henry Hub Spreads
+Bechtelsville
+--> Mkt-3 vs.
+Henry Hub Spreads
+Lambertville --> Mkt-3 vs.
+Henry Hub Spreads
+Linden --> Mkt-3 vs.
+Henry Hub Spreads
+Range = 10/10/2000
+to
+9/5/2001
+Adam
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+E5F633Cc0
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-844175286315

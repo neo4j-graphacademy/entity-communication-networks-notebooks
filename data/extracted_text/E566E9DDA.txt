@@ -1,0 +1,103 @@
+COMPIBENTTAT. 
+Prima Corp. 
+Case Wo. RO ZNN2 14 
+Gao No. EDb629CCA 
+Bane: O1l/ 15/2003 
+ENRON CORE. - ERODUCEG PURSUANT It FERC SUSEDENA. 
+SUBJECT IG PROTECTIVE ORDER. CONYIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Tmai, Rixa <rixa.imai@enror.corm> 
+Sent: 
+Mor, 4 Feb 2092 74:27:56 -0809 {PST} 
+To: 
+Presto, Kevir M. <m,.presto@enron.com> 
+Ce: 
+Chen, Alan <alan.chern@enron.com>, Will, Lloyd <lloyd.will@enron.com> 
+Subject: 
+Re: cubes 
+to will meet with Alan tomorrow toa resolve these issues 
+Rixa 
+—----Original Message---——- 
+From: 
+Presto, Kevin M. 
+Sent: 
+Monday, February 04, 2002 4:22 2M 
+To: 
+Will, itleyd; imai, Rika 
+Suplect: 
+Ri: Cubes 
+Lleyd - BSorn't worry about the formatting. 
+After playing around some more, 1 
+have a new way that works fine Lor me. 
+The Main i88ue 18 xeeping the 
+datapase live with all of the historical information. 
+We can figure out how 
+Oo formar. 
+ nankxs. 
+—----Original Message---——- 
+From: 
+Will, itloyd 
+Sent: 
+Monday, February 04, 2002 3:52 2M 
+To: 
+Presto, Kevin M.; Imai, BRixa 
+Ce: 
+Cnen, Alan 
+Suplect: 
+Ri: Cubes 
+Rixa & Alar 1 have attached a document that has some additional changes wnat 
+Kevin would lixe. 
+Also Rika please consider gatner a couple of your powerusers and we can review 
+“his app for other refinements. 
+Alan can you loox at the interchange cube as 2002 18s not showing up. 
+Tnanxs. 
+<< File: DATA CUBE MOOS.doac >> 
+—----Original Message---——- 
+From: 
+Presto, Kevin M. 
+Sent: 
+Monday, February 04, 2002 2:20 2M 
+Cyan Nu. RY RES o10as 
+ame No. TL Rea 
+eaber 
+Lethe aan 
+PNBORN DURE 
+PROUT TR SANT Ti BUTE BDRM ENA 
+SV CEAT) CT PRG TROUD DED VBR GUID PINAL TBUATEIENT RB TE
+
+CONFIDENTIAL. 
+Prima Corp. 
+Case Mo. RO ZNN2Z u1ic4y 
+Goo No. ED6B6E9CCA 
+Gare: S1/15/2003 
+ENRON CORE. - ERSDUCEG LURSUANT If FER SUBESENA. 
+SUBJECT TS PROTECTIVE SROER. CSNEFIGENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+To: 
+Tmai, Rixa 
+Ce: 
+Will, Uleyd; Cher, Alar 
+Subptecn: 
+cubes 
+Please ensure that real-time prices for FRCOT, PJM, NY¥, and NEPOOT are added 
+co the cube database, 
+T have beer analyzing the data today ard the real-time 
+clearing prices are mot there. 
+Tnanxs. 
+Kevin Presto 
+Fast Power Trading 
+Phone: 
+713-853-5935 
+Cell: 
+V%13-854-3923 
+Fax: 
+713-646-8272 
+aa Nu. he AGL 21a3s 
+ame Na. PLR BESS 
+saber 
+le the ane 
+PNBORN DURE 
+PROUD 
+PER SANT Tip BUTS OR DUHINTE NAL 
+SOR CEA) OTR PRISED EYED VERE UBD DIEM DAL THEATERS TR

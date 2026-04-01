@@ -1,0 +1,153 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Kayne Coulter <kayne.coulter@enron.com> 
+Sent: 
+Thu, 30 Nov 2000 08:10:00 -0800 (PST) 
+To: 
+Jay Wills <jay.wills@enron.com>, Cyril Price 
+<cyril.price@enron.com>, John Kinser <john.kinser@enron.com>, Rudy 
+Acevedo <rudy.acevedo@enron.com>, Richard Hrabal 
+<richard.hrabal@enron.com>, Wayne Herndon <wayne.herndon@enron.com>, 
+Juan Hernandez <juan.hernandez@enron.com>, Greg Trefz 
+<greg.trefz@enron.com>, Miguel L Garcia <miguel.garcia@enron.com>, 
+Russell Ballato <russell.ballato@enron.com>, Joe Stepenovitch 
+<joe.stepenovitch@enron.com>, Joe Errigo <joe.errigo@enron.com> ... 
+Subject: 
+Re: Notice of Pending Changes (effective 12/18/2000) to MAPP's Loss 
+Repayment Procedure 
+---------------------- Forwarded by Kayne Coulter/HOU/ECT on 11/30/2000 04:13 
+PM - 7 rrr rrr rr rrr 
+Patrick Hanse 
+11/30/2000 10:03 AM 
+To: Terri Clynes/HOU/ECT@ECT, Dave Mangskau/Corp/Enron@ENRON, Mitch 
+Robinson/Corp/Enron@Enron, Kayne Coulter/HOU/ECT@ECT, Christi L 
+Nicolay/HOU/ECT@ECT 
+ce: Matt Lorenz/HOU/ECT@ECT, Edward D Baughman/HOU/ECT@ECT 
+Subject: Re: Notice of Pending Changes (effective 12/18/2000) to MAPP's Loss 
+Repayment Procedure 
+I called MAPP to get a better understanding of the pending Dec. 18th LRP 
+changes as explained in detail below. 
+Currently the "source" generator is responsible for the Losses. 
+The new 
+policy states that the Scheduling customer is now responsible for Losses. 
+MAPP is implementing this change as a requirement under their tariff. 
+Changes to software and systems has delayed this change from being 
+implemented any earlier. 
+What it means to Enron as a Schedule F customer: 
+1) 
+Enron (or any Schedule F customer) is responsible for 
+losses based on a 
+yet to be published Loss Matrix that MAPP will provide on it web page. 
+The 
+loss 
+calculation matrix and methodolgy will not change, just the party 
+responsible for providing the losses. 
+When scheduling energy, Enron must 
+either schedule physical losses or buy losses from a designated Source 
+Scheduling participant (SSP). 
+The SSP will then be responsible for 
+disbursing the losses to each designated CA a week later. 
+The identity of the SSP will be the Source of power (if a MAPP member), or 
+the POR on your Schedule F (If Source is outside MAPP). 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-778738843546
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+Terri Clynes 
+11/20/2000 10:40 AM 
+To: Matt Lorenz/HOU/ECT@ECT, Patrick Hanse/HOU/ECT@ECT 
+ce: 
+Subject: Notice of Pending Changes (effective 12/18/2000) to MAPP's Loss 
+Repayment Procedure 
+---------------------- Forwarded by Terri Clynes/HOU/ECT on 11/20/2000 10:40 
+AM —— ee 
+EE 
+EE 
+"Dan S. Fredrickson" <DS.Fredrickson@mapp.org>@mapp.org on 11/17/2000 
+05:21:59 PM 
+Sent by: owner-pemc@mapp.org 
+To: <rtc@mapp.org>, <pemc@mapp.org>, <mrc@mapp.org>, <rin@mapp.org> 
+ce: 
+Subject: Notice of Pending Changes (effective 12/18/2000) to MAPP's Loss 
+Repayment Procedure 
+Notice of new MAPP Loss Repayment Policies and Procedures 
+At the direction of the Regional Transmission Committee of MAPP, new Loss 
+Repayment Policies and Procedures will be implemented on December 18, 2000. 
+These changes make the transmission customer, as identified on the OASIS 
+reservation, responsible for paying energy losses on MAPP Schedule F 
+transmission service. 
+Previously, the MAPP Source entity has been 
+responsible for paying these losses. 
+These changes do not modify the 
+application of MAPP's Loss Repayment Procedure (LRP) to MAPP Member Open 
+Access Transmission Tariff (OATT) customers. 
+Changes to the administration 
+of Schedule F loss repayment include: 
+o The Schedule F transmission customer will now be responsible for the LRP 
+losses on their energy schedules. 
+o Payment of third party impacts due to "through flowing" Schedule F 
+transactions (where the Source and Sink are both outside MAPP) will be 
+included in the LRP. 
+o To facilitate the payment of third party losses, the Customer will make 
+arrangements with the Source Scheduling Participant (SSP), as defined on the 
+transmission reservation, to pay for energy transaction losses at the onset 
+of a schedule. 
+o The SSP will bank the losses for repayment of third party losses, one week 
+later, to the day. The repayment is done, as it is today, according to a 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-778738843546
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+schedule sent out by the MAPP Center. 
+For additional information please see the business practices section of 
+MAPP's Schedule F OASIS: 
+http://mapp.oasis.mapp.org/documents/MAPP/practices.html 
+Questions may be e-mailed to Tom White at the MAPP Center: 
+ts.white@mapp.org 
+Answers to frequently asked questions will be posted at the URL given above. 
+A copy of the revised section five of the policies and procedures document 
+is attached. 
+Dan Fredrickson 
+MAPP Transmission Operations 
+- lrppolicy20001218.doc 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EE98143AC 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-778738843546

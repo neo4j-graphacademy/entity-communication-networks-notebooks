@@ -1,0 +1,38 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EB7444200
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER
+From:
+SAP COE Hotline <sap.hotline@enron.com>
+Sent:
+Wed, 29 Nov 2000 03:29:00 -0800 (PST)
+To:
+ISC ORG ALL GROUPS <isc.groups@enron.com>, ENRON COE PRODUCTION SAP
+USERS <enron.users@enron.com>, Enron COE SAP London Production Users
+List <enron.list@enron.com>
+Subject:
+SAP SYSTEM OUTAGE NOTIFICATIONS
+The following servers will be coming down, please click on the icon for more
+details and scheduled times :
+-------------------------------------------------------------
+          SYSTEM OUTAGE NOTIFICATION
+-------------------------------------------------------------
+FOR:  PR2 - HR Production
+Outage Start: (CST) 11/29/2000 at 11:30:00 AM
+Outage End: (CST) 11/29/2000 at 01:00:00 PM
+Outage Abstract:  Pr2 will be unavailable for emergency maintenance
+Outage Description: Pr2 will be unavailable for emergency maintenance
+Outage Implication: Access to PR2 will be denied
+Contact Name:alexandra malone   #:  3-6844
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EB7444200
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-698286391148

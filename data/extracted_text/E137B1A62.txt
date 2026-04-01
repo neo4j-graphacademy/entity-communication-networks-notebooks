@@ -1,0 +1,31 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E137B1A62
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Enron Messaging Administration <administration.enron@enron.com>
+Sent:
+Fri, 28 Dec 2001 11:55:33 -0800 (PST)
+To:
+DL-Exchange Server Maintenance <maintenance.dl-exchange@enron.com>
+Subject:
+NOTIFICATION:  Outlook Outage - Friday, December 28, 2001
+This is a notice to inform you that the server where your Outlook mailbox
+resides is scheduled for an outage tonight.  Your mailbox will be temporarily
+unavailable starting anytime after 8pm and may continue to be unavailable
+until 12 a.m., when all server maintenance work have been completed.  Outlook
+Web Access (OWA) will also be unavailable during this time.
+Blackberry users:  Message delivery may be delayed for a few minutes.
+If you have any questions, please call the Resolution Center at x31411.
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E137B1A62
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-670270884716

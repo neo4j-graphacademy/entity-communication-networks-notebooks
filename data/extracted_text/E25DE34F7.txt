@@ -1,0 +1,43 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E25DE34F7
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Vince J Kaminski <vince.kaminski@enron.com>
+Sent:
+Thu, 11 Jan 2001 00:22:00 -0800 (PST)
+To:
+Stinson Gibner <stinson.gibner@enron.com>
+Subject:
+Request Submitted: Access Request for jennifer.n.stewart@enron.com
+Stinson,
+Do you know anything about it?
+Vince
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 01/11/2001
+08:24 AM ---------------------------
+ARSystem <ARSystem@mailman.enron.com> on 01/10/2001 08:59:24 AM
+To: "vince.j.kaminski@enron.com" <vince.j.kaminski@enron.com>
+cc:
+Subject: Request Submitted: Access Request for jennifer.n.stewart@enron.com
+You have received this email because you are listed as an alternate data
+approver. Please click
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000013085&Page=
+Approval to review and act upon this request.
+Request ID          : 000000000013085
+Approver            : stinson.gibner@enron.com
+Request Create Date : 1/10/01 8:59:14 AM
+Requested For       : jennifer.n.stewart@enron.com
+Resource Name       : \\enehou\houston\common\Research - [Read]
+Resource Type       : Directory
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. E25DE34F7
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-994026384617

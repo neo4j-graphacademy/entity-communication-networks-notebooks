@@ -1,0 +1,274 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EC7680B21
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+CONFIDENTIAL
+-
+SUBJECT
+TO
+PROTECTIVE
+ORDER
+From:
+Tana Jones <tana.jones@enron.com>
+Sent:
+Mon,
+23 Apr 2001
+10:56:00
+-0700
+(PDT)
+To:
+Alan Aronowitz
+<alan.aronowitz@enron.com>,
+Jeffrey
+T Hodge
+<jeffrey.hodge@enron.com>,
+Marcus Nettelton
+<marcus.nettelton@enron.com>,
+Harry M Collins
+<harry.collins@enron.com>,
+David Minns <david.minns@enron.com>,
+Marie Heard <marie.heard@enron.com>,
+Robbi
+Rossi
+<robbi.rossi@enron.com>,
+John Viverito <john.viverito@enron.com>,
+Jane McBride <jane.mcbride@enron.com>,
+Andrea Calo
+<andrea.calo@enron.com>,
+Peter Keohane <peter.keohane@enron.com>,
+Mary Cook <mary.cook@enron.com>
+...
+Subject:
+FW:
+PG&E Energy Trading Entities
+Please
+let me know immediately
+if you have any issues with the PG&E entities
+at the bottom of this email trading the listed products.
+----- Forwarded by Tana Jones/HOU/ECT on 04/23/2001
+05:55 PM -----
+Walter Guidroz/ENRON@enronxgate
+04/23/2001
+05:35
+PM
+To:
+Lisa Lees/ENRON@enronxgate,
+Stephanie
+Sever/ENRON@enronxXgate,
+Tana
+Jones/HOU/ECT@ECT
+ce:
+Subject:
+FW:
+PG&E Energy Trading Entities
+Lisa/Stephanie,
+could you please ensure that the trading profiles
+for each of
+the three PG&E entities
+are changed below such that by tomorrow morning they
+will
+be
+able
+to
+transact
+once
+we
+restore
+their headroom once
+we
+enter
+it
+into
+the
+system?
+Tana,
+are you OK with restoring the changes
+reflected below?
+I'm thinking
+that
+since they had this transact
+ability once before,
+that
+it
+should be OK.
+PLEASE
+LET
+ME
+KNOW
+IF
+THERE
+WILL
+BE
+ANY
+PROBLEMS.
+Thanks
+all!
+Walter
+-----Original Message-----
+From:
+Moran,
+Tom
+Sent:
+Monday,
+April
+23,
+2001
+5:08
+PM
+To:
+Guidroz,
+Walter
+Subject:
+FW:
+PG&E Energy Trading Entities
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EC7680B21
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-753731020239
+
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EC7680B21
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+CONFIDENTIAL
+-
+SUBJECT
+TO
+PROTECTIVE
+ORDER
+Walter,
+Could you ensure that the profiles
+are set-up accordingly and that CAS
+is
+populated with a $5million minimum for each of these cpl,s.
+I
+do not want
+to turn them on
+in Datamanager until tomorrow am.
+tm
+-----Original Message-----
+From:
+Conwell,
+Wendy
+Sent:
+Monday,
+April
+23,
+2001
+4:59 PM
+To:
+Moran,
+Tom
+Cc:
+Bradford,
+William S.;
+Ngo,
+Tracy;
+Sacks,
+Edward;
+Radous,
+Paul
+Subject:
+PG&E Energy Trading Entities
+Tom,
+Per our discussion with Bill,
+please
+set up the following PG&E counterparties
+on EOL providing for transactions having a maximum tenor of
+12 MONTHS:
+PG&E Energy Trading
+- Power L.P.-------> Physical Power
+PG&E Energy Trading,
+Canada Corporation---------> Physical Canadian Gas
+PG&E Energy Trading
+- Gas Corporation---------->Physical
+and Financial
+US Gas
+Thanks,
+Wendy
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EC7680B21
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-753731020239

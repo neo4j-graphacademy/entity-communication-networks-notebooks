@@ -1,0 +1,51 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E629F571E 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Tue, 5 Feb 2002 20:38:41 -0800 (PST) 
+To: 
+Davis, Pete <pete.davis@enron.com> 
+Ce: 
+Meyers, Albert <albert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Solberg, Geir <geir.solberg@enron.com>, Anderson, John 
+<john.anderson@enron.com>, Guzman, Mark <mark.guzman@enron.com>, 
+Mier, Michael <michael.mier@enron.com>, Davis, Pete 
+<pete.davis@enron.com>, Slinger, Ryan <ryan.slinger@enron.com> 
+Subject: 
+Start Date: 2/5/02; HourAhead hour: 23; 
+Start Date: 2/5/02; HourAhead hour: 23; 
+No ancillary schedules awarded. 
+No 
+variances detected. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2002020523.txt 
+!!!General SQL error. 
+Couldn't update; currently locked. 
+Table 
+---- Energy Import/Export Schedule ---- 
+*** Final schedule not found for preferred schedule. 
+Details: 
+TRANS_TYPE: FINAL 
+SC_ID: ECTstNW 
+MKT_TYPE: 2 
+TRANS_DATE: 2/5/02 
+TIE_POINT: MALIN_5_ RNDMTN 
+INTERCHG_ID: ENRJ_CISO_3000 
+ENGY_TYPE: FIRM 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E629F571E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-1007519619696

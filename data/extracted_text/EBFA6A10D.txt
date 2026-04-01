@@ -1,0 +1,41 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBFA6A10D 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Tanya Tamarchenko <tanya.tamarchenko@enron. 
+com> 
+Sent: 
+Wed, 7 Mar 2001 00:32:00 -0800 (PST) 
+To: 
+Isaac Rodriguez <isaac.rodriguez@enron.com>, Jason Sokolov 
+<jason.sokolov@enron.com>, Rabi De <rabi.de@enron.com>, Jaesoo Lew 
+<jaesoo.lew@enron.com> 
+Ce: 
+Vince J Kaminski <vince.kaminski@enron.com> 
+Subject: 
+Re: "Expected Tail Loss" for Equity portfolio 
+Everybody, 
+I attached here the Equity Portfolio VAR spreadsheet model (Version X). 
+The improvement over the previous version (1X) is that it calculates 
+an additional measure of risk - Expected Tail Loss. 
+Expected Tail Loss is the expectation of the loss under the condition that 
+losses exceed VAR . As you know Equity VAR model allows you to calculate VAR 
+for the percentile specified in the input sheet. 
+Now you have to click 2 more buttons on the "VarInput" sheet: 
+"Calculate Gamma and Delta" and "Fast VAR". 
+Isaac, please run the model to make sure it works for you. 
+Regards, 
+Tanya 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EBFA6A10D 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-465736758967

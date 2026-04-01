@@ -1,0 +1,38 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED6A59F78
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Perich, Stephen <stephen.perich@enron.com>
+Sent:
+Fri, 28 Dec 2001 17:40:52 -0800 (PST)
+To:
+Akers, Michelle <michelle.akers@enron.com>, Bailey, Derek
+<derek.bailey@enron.com>, Baumbach, David
+<david.baumbach@enron.com>, Bhatia, Randy <randy.bhatia@enron.com>,
+Bike, Anne <anne.bike@enron.com>, Bowen, Melba A.
+<a..bowen@enron.com>, Brady, Edward <edward.brady@enron.com>,
+Castillo, Michael <michael.castillo@enron.com>, Cavazos, Amy
+<amy.cavazos@enron.com>, Chavez, Alejandra
+<alejandra.chavez@enron.com>, Clause, Kristen
+<kristen.clause@enron.com>, Couch, Greg <greg.couch@enron.com> ...
+Subject:
+Hedgestrips
+Please remember to use your Jan-02 hedgestrips starting on the 31st of
+December.  Please change the following dates on your Run Query tab:
+Prompt Month:   2/1/2002        2/28/2002
+Bid Week:       1/25/2002       1/28/2002       1/29/2002
+Thanks,
+SP
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED6A59F78
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-548803463561

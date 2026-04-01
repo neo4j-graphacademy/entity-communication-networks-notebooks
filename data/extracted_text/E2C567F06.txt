@@ -1,0 +1,88 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2C567F06 
+Date: 01/15/2003 
+ENRON CORP. — PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Schedule Crawler <pete.davis@enron.com> 
+Sent: 
+Tue, 22 Jan 2002 08:36:32 -0800 (PST) 
+To: 
+Davis, [REDACTED] B6 
+Ce: 
+Meyers, Albert <albert.meyers@enron.com>, Williams III, Bill 
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>, 
+Solberg, Geir <geir.solberg@enron.com>, Anderson, John 
+<john.anderson@enron.com>, Guzman, Mark <mark.guzman@enron.com>, 
+Mier, Michael <michael.mier@enron.com>, Davis, Pete 
+<pete.davis@enron.com>, Slinger, Ryan <ryan.slinger@enron.com> 
+Subject: 
+Schedule Crawler: HourAhead Failure 
+Start Date: 1/22/02; HourAhead hour: 11; 
+HourAhead schedule download failed. 
+Manual intervention required. 
+LOG MESSAGES: 
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final 
+Schedules\2002012211.txt 
+Error: dbCaps97Data: Cannot perform this operation on a closed database 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+Error: dbCaps97Data: Cannot perform this operation on a closed database 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+Error: dbCaps97Data: Cannot perform this operation on a closed database 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+Error: dbCaps97Data: Cannot perform this operation on a closed database 
+[REDACTED] B5 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2C567F06 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-543351448251
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2C567F06 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+'!!Unknown database. 
+Alias: dbCaps97Data 
+Error: dbCaps97Data: Cannot perform this operation on a closed database 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E2C567F06 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-543351448251

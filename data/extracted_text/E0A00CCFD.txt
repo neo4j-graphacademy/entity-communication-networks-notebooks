@@ -1,0 +1,30 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EOAOOCCFD 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+CONFIDENTIAL - SUBJECT TO PROTECTIVE ORDER 
+From: 
+Heizenrader, Tim <tim.heizenrader@enron.com> 
+Sent: 
+Mon, 7 Jan 2002 12:38:45 -0800 (PST) 
+To: 
+DL-Portland World Trade Center <center.dl-portland@enron.com> 
+Subject: 
+Seminar Followup: RiskMetrics 
+All: 
+For those people wanting to learn more about Var calculation and application, 
+I've put a copy of JP Morgan's RiskMetrics documentation on the P: drive under 
+\MidMarketing\RiskMetrics. Of the five documents, Part 2 probably gets most 
+directly at the questions that were being asked in Matt's seminar. 
+Tim H 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. EOQAOOCCFD 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-962536565863

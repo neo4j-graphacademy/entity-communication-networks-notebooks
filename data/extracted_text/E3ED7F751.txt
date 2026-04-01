@@ -1,0 +1,49 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3ED7F751 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Howard, Kevin A. <a..howard@enron.com> 
+Sent: 
+Fri, 1 Feb 2002 08:23:33 -0800 (PST) 
+To: 
+Centilli, James <james.centilli@enron.com> 
+Ce: 
+Watson, Kimberly <kimberly.watson@enron.com> 
+Subject: 
+RE: TransPecos Model 
+James: 
+Can we scale this down a bit? As I mentioned to Kevin Hyatt yesterday, we 
+just need a slimmed down version for them to get started with. 
+If this is not 
+possible, we can send them this. 
+They are needing to review a model and run 
+sensitivities for the returns. 
+Things like the MLP should be deleted. 
+Kevin 
+-—----Original Message----- 
+From: 
+Centilli, James 
+Sent: 
+Friday, February 01, 2002 10:11 AM 
+To: 
+Howard, Kevin A. 
+Ce: 
+Watson, Kimberly 
+Subject: 
+TransPecos Model 
+Please find attached the model for the TransPecos Project. 
+James 
+<< File: Transpecos20.XLS >> 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E3ED7F751 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-102181715002

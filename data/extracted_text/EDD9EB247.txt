@@ -1,0 +1,210 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EDD9EB247
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+RELEASE
+IN
+FULL
+From:
+Lamadrid,
+Victor <victor.lamadrid@enron.com>
+Sent:
+Thu,
+25
+Oct
+2001
+09:27:22
+-0700
+(PDT)
+To:
+Ames,
+Chuck <chuck.ames@enron.com>,
+Brawner,
+Sandra
+F.
+<f..brawner@enron.com>,
+Germany,
+Chris <chris.germany@enron.com>,
+Goodell,
+Scott
+<scott.goodell@enron.com>,
+Hodge,
+John
+<john.hodge@enron.com>,
+Keavey,
+Peter
+F.
+<f..keavey@enron.com>,
+Mckay,
+Brad <brad.mckay@enron.com>,
+Mckay,
+Jonathan
+<jonathan.mckay@enron.com>,
+Neal,
+Scott
+<scott.neal@enron.com>,
+Pereira,
+Susan W.
+<w..pereira@enron.com>,
+Pimenov,
+Vladi
+<vladi.pimenov@enron.com>,
+Ring,
+Andrea <andrea.ring@enron.com>,
+Savvas
+...
+Ce:
+Superty,
+Robert <robert.superty@enron.com>,
+Smith,
+George
+F.
+<f..smith@enron.com>,
+Pinion,
+Richard <richard.pinion@enron.com>,
+Jaquet,
+Tammy <tammy.jaquet@enron.com>,
+Kinsey,
+Lisa
+<lisa.kinsey@enron.com>,
+Schrab,
+Mark
+L.
+<l..schrab@enron.com>,
+Sullivan,
+Patti <patti.sullivan@enron.com>,
+Farmer,
+Daren
+J.
+<j..farmer@enron.com>,
+Hall,
+Bob M <m.hall@enron.com>,
+Calcagno,
+Suzanne <suzanne.calcagno@enron.com>,
+Greif,
+Donna
+<donna.greif@enron.com>,
+Allwein,
+Robert <robert.allwein@enron.com>,
+Arteaga
+...
+Subject:
+FW:
+Sitara EOL Bridge Problem Today
+FYI>>>We were also monitoring the EOL to Sitara bridge during this time to
+inform our
+traders
+and
+other
+desks
+of
+the
+situation
+and
+status...All
+deals
+bridged over by
+10:30ish.
+THANKS
+-----Original Message-----
+From:
+Truong,
+Dat
+Sent:
+Thursday,
+October
+25,
+2001
+11:11 AM
+To:
+Moorer,
+Torrey;
+Lamadrid,
+Victor;
+Severson,
+Russ;
+Grant,
+George
+Ce:
+Husain,
+Karima;
+Lim,
+Francis
+S.;
+Saluja,
+Gurdip;
+Sweitzer,
+Tara
+Subject:
+Sitara EOL Bridge Problem Today
+The problem we faced today was due to
+2
+eol deal packets
+(2098073,
+2099764)
+not having startdate and enddate.
+Missing these
+2 tibco message
+fields caused
+the bridge to bounce and resulted in the queue to build up while the bridge
+is
+starting up.
+(The bridge takes
+2 minute
+for startup).
+Each time these deals
+are sent/resent,
+it continuously cause the Sitarar EOLBridge to restart,
+thus
+magnifying the buildup of the queue.
+The corrective action we are taking at
+our end is to build
+a rejection logic
+when eol packets do not have start and/or enddate.
+-Dat
+Truong
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EDD9EB247
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-683782869957

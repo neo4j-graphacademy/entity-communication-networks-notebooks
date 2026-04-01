@@ -1,0 +1,38 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED159CD7F
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN PART
+From:
+Davis, Pete <pete.davis@enron.com>
+Sent:
+Fri, 26 Oct 2001 19:00:07 -0700 (PDT)
+To:
+Davis, Pete <pete.davis@enron.com>
+Cc:
+Meyers, Bert <bert.meyers@enron.com>, Williams III, Bill
+<bill.williams@enron.com>, Dean, Craig <craig.dean@enron.com>,
+Linder, Eric <eric.linder@enron.com>, Solberg, Geir
+<geir.solberg@enron.com>, Symes, Kate <kate.symes@enron.com>,
+Harasin, Leaf <leaf.harasin@enron.com>, Guzman, Mark
+<mark.guzman@enron.com>, Davis, Pete <pete.davis@enron.com>,
+Slinger, Ryan <ryan.slinger@enron.com>, smerris@enron.com
+Subject:
+Start Date: 10/26/01; HourAhead hour: 21;  <CODESITE>
+Start Date: 10/26/01; HourAhead hour: 21;  No ancillary schedules awarded.  No
+variances detected.
+    LOG MESSAGES:
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final
+Schedules\2001102621.txt
+Error retrieving HourAhead price data - process continuing...
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. ED159CD7F
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-360040909088

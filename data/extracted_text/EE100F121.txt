@@ -1,0 +1,34 @@
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE100F121
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+RELEASE IN FULL
+From:
+Monika Causholli <monika.causholli@enron.com>
+Sent:
+Sun, 4 Feb 2001 21:31:00 -0800 (PST)
+To:
+Portland Shift <portland.shift@enron.com>
+Cc:
+Bill Williams III <bill.iii@enron.com>
+Subject:
+Reports Procedures
+Group,
+I have created some new procedures for the SAR, CARP, and Enpower to CAPS
+mainly to make it easier for the newer members of the group to run the
+reports at night. They are fairly detailed and are tested once but I would
+appreciate any further feedback from you.
+These procedures are located in P: /Real Time/ Reports
+hope this helps,
+Monika
+CONFIDENTIAL
+Enron Corp.
+Case No. EC-2002-01038
+Doc No. EE100F121
+Date: 01/15/2003
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA.
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED.
+ENRON-1089507595135

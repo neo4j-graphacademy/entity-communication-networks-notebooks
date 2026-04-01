@@ -1,0 +1,135 @@
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EE729A68F
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+RELEASE
+IN
+FULL
+From:
+Kenneth Parkhill
+<kenneth.parkhill@enron.com>
+Sent:
+Thu,
+10 May 2001
+11:36:00
+-0700
+(PDT)
+To:
+John Griffith <john.griffith@enron.com>
+Ce:
+Paulo
+Issler <paulo.issler@enron.com>,
+Tom Barkley
+<tom.barkley@enron.com>
+Subject:
+updated skew file
+John,
+This
+is
+the
+latest
+skew
+calculator
+file.
+It
+has
+a
+sheet
+for
+the
+vol
+skew
+table,
+and it calculates
+the ENA pdf using
+a linear interpolation between
+points
+on the table,
+not
+a polynomial.
+The
+file
+shows yesterday's
+settle data for Jun,
+and ENA data matches very
+well.
+(All the 2001
+contracts
+agree closely with ENA data from yesterday,
+in
+fact.)
+I've added a macro that
+fetches the underlying price,
+volatility,
+and
+interest
+rate
+from
+our
+in-house
+EGSPROD32
+database.
+Let
+me
+know
+if
+this
+doesn't work
+for you.
+Feel
+free to contact
+any of us
+if you have any questions
+or requests
+regarding
+this
+file.
+hope
+it
+is helpful.
+ken
+CONFIDENTIAL
+Enron
+Corp.
+Case
+No.
+EC-2002-01038
+Doc
+No.
+EE729A68F
+Date:
+01/15/2003
+ENRON
+CORP.
+-
+PRODUCED
+PURSUANT
+TO
+FERC
+SUBPOENA.
+SUBJECT
+TO PROTECTIVE
+ORDER.
+CONFIDENTIAL
+TREATMENT REQUESTED.
+ENRON-1058744006083

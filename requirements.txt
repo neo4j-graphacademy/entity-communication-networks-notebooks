@@ -1,0 +1,28 @@
+# PDF extraction
+pymupdf
+docling
+ipywidgets
+
+# OCR
+easyocr
+
+# NLP / ML
+spacy
+gliner2
+
+# AI / LLM
+openai
+tiktoken
+
+# Neo4j
+neo4j
+
+# Environment
+python-dotenv
+
+# Data processing
+pandas
+tqdm
+
+# Jupyter
+ipykernel

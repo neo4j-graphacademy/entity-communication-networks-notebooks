@@ -1,0 +1,75 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. ECOBDBC21 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+Errol McLaughlin <errol.mclaughlin@enron.com> 
+Sent: 
+Fri, 2 Mar 2001 08:15:00 -0800 (PST) 
+To: 
+[REDACTED] B6 
+Subject: 
+Re: Option Testing 
+Looks good. 
+Errol 
+Dawn C Kenne@ECT 
+03/02/2001 04:08 PM 
+To: Errol McLaughlin/Corp/Enron@ENRON 
+ce: 
+Subject: Re: Option Testing 
+Try these....089294 and 9S9295 
+Errol McLaughlin@ENRON 
+03/02/2001 04:01 PM 
+To: Dawn C Kenne/HOU/ECT@ECT 
+ce: 
+Subject: Re: Option Testing 
+Sorry Dawn, QS7544 is not correct. 
+This deal is an option and is booked to 
+NG-Exotic. 
+It should be booked to NG-PR-OPT. 
+Thanks, 
+Errol 
+[REDACTED] B5 
+03/02/2001 11:09 AM 
+[REDACTED] B5 
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Jeffrey C 
+Gossett /HOU/ECT@ECT 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. ECOBDBC21 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-311073643135
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. ECOBDBC21 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+Subject: Option Testing 
+Errol, can you look at these deals in tagg stage and let me know if this is 
+how they are supposed to look? 
+These are the deals with the option having 
+NG-PR-OPT, but the swap remaining the same as before. 
+If everything looks ok 
+we will put into production this evening. 
+Let me know... 
+QS$7544 and QS7545 
+Dawn 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. ECOBDBC21 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-311073643135

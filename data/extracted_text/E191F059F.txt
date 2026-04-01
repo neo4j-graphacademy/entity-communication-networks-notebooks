@@ -1,0 +1,57 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E191FO59F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN PART 
+From: 
+owner-eveningmba@Haas.Berkeley.EDU 
+<owner-eveningmba@haas.berkeley.edu> 
+Sent: 
+Thu, 21 Jun 2001 13:34:00 -0700 (PDT) 
+To: 
+faculty@haas.berkeley.edu, staff@haas.berkeley.edu, 
+allphds@haas.berkeley.edu, mfe02@haas.berkeley.edu, 
+eveningmba@haas.berkeley.edu, mba0l@haas.berkeley.edu, 
+mba02@haas.berkeley.edu, undergrd@haas.berkeley.edu 
+Ce: 
+cons@haas.berkeley.edu 
+Subject: 
+Computing Services OUTAGE for Sunday, June 24th 
+Dear Haas Community, 
+Sunday, June 24th, 2001, between 8:00 AM and noon, several servers will 
+be shut down for maintenance, for upgrade of the server control switch, and 
+to relocate some servers in preparation for summer server upgrades. 
+The email/web server, haas, will be shut down and restarted, making email 
+service and the Haas main web site unavailable for about an hour. 
+Also, 
+one of the servers required for web mail will be moved, taking the pilot 
+web mail service off-line for about an hour. 
+In addition, the old research 
+[REDACTED] B6 
+and restarted during the outage period. 
+During the outage email will be held for later delivery. 
+No email will be 
+lost. 
+As always, 
+should you experience any problems with computing services 
+following the maintenance, please contact the information desk in the 
+Computer Center, or helpdesk at http://helpdesk.haas.berkeley.edu, phone 
+510/642-0434. 
+Please note that Helpdesk is not manned on 
+weekends. 
+Requests for help logged during the weekend will be responded to 
+Monday morning. 
+Your patience is greatly appreciated. 
+Thank you. 
+Haas Computing Services 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E191F059F 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-1028970700800

@@ -1,0 +1,88 @@
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E59CF8A0E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+From: 
+Ginger Dernehl <ginger.dernehl@enron.com> 
+Sent: 
+Fri, 17 Nov 2000 23:36:00 -0800 (PST) 
+To: 
+Alan Comnes <alan.comnes@enron.com>, Aleck Dadson 
+<aleck.dadson@enron.com>, Allison Navin <allison.navin@enron.com>, 
+Amy Fabian <amy.fabian@enron.com>, Barbara A Hueter 
+<barbara.hueter@enron.com>, Bernadette Hawkins 
+<bernadette.hawkins@enron.com>, Bill Moore <bill.moore@enron.com>, 
+Carolyn Cooney <carolyn.cooney@enron.com>, Charles Yeung 
+<charles.yeung@enron.com>, Chauncey Hood <chauncey.hood@enron.com>, 
+Chris Long <chris.long@enron.com>, Christi L Nicolay 
+<christi.nicolay@enron.com> ... 
+Subject: 
+Project Tracking 
+fyi 
+gngr 
+713-853-7751 
+----- Forwarded by Ginger Dernehl/NA/Enron on 11/18/2000 07:35 AM ----- 
+Elizabeth Linnell 
+11/17/2000 02:36 PM 
+To: Ginger Dernehl/NA/Enron@Enron 
+ce: 
+Subject: Project Tracking 
+Ginger - This has been tested and should now work for everyone. 
+Please 
+forward this message to Rick's group. 
+Project Tracking (with RCRs) has been moved from the EES server to the Corp 
+server. 
+We need to re-establish everyone's connection to the application. 
+To check to see if you have a link to the correct copy of the application, in 
+Lotus Notes right click on each link to the application, then select 
+Database, Properties, and check the server name, which should be ENE-NSO5. 
+If it is this server name, you can skip the rest of this message. 
+If that's not the server you're accessing for each link, follow these steps. 
+- Delete from your Lotus Notes workspace your existing links to the project 
+tracking system. 
+You should have three links - Project Tracking, Projects 
+and Contacts. 
+To delete each link, click on the link and press the delete 
+key. 
+- Click on each of the attached links to re-load the system on the new 
+server. 
+When you click each one, it will add the link to your Lotus Notes 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E59CF8A0E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-430791800979
+
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E59CF8A0E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+RELEASE IN FULL 
+workspace. 
+You should be launched into the database as each database loads. 
+Please double check each link following the directions at the beginning of 
+this message to make sure it's linked to the ENE-NSO5 server. 
+- If the server name is different, please leave me a voicemail or send me an 
+e-mail. 
+The Projects database is the one you'll access for project management and 
+RCRs. 
+The Contacts database was created for future use, and the Project 
+Management database is necessary for administrative purposes. 
+CONFIDENTIAL 
+Enron Corp. 
+Case No. EC-2002-01038 
+Doc No. E59CF8A0E 
+Date: 01/15/2003 
+ENRON CORP. - PRODUCED PURSUANT TO FERC SUBPOENA. 
+SUBJECT TO PROTECTIVE ORDER. CONFIDENTIAL TREATMENT REQUESTED. 
+ENRON-430791800979
