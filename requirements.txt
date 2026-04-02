@@ -4,6 +4,7 @@ docling
 ipywidgets
 
 # OCR
+opencv-python-headless
 easyocr
 
 # NLP / ML
