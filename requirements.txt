@@ -23,6 +23,7 @@ python-dotenv
 # Data processing
 pandas
 tqdm
+matplotlib
 
 # Jupyter
 ipykernel
